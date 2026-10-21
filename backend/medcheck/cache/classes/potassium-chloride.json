@@ -1,0 +1,27 @@
+{
+ "schema": "medcheck/drug-class-cache@1",
+ "query": "Potassium chloride",
+ "drug": "Potassium chloride",
+ "raw": [
+  "Acidifying Activity [MoA]",
+  "Blood Coagulation Factor [EPC]",
+  "Calcium [CS]",
+  "Calculi Dissolution Agent [EPC]",
+  "Cations",
+  "Divalent [CS]",
+  "Increased Coagulation Factor Activity [PE]",
+  "Increased Large Intestinal Motility [PE]",
+  "Inhibition Large Intestine Fluid/Electrolyte Absorption [PE]",
+  "Inhibition Small Intestine Fluid/Electrolyte Absorption [PE]",
+  "Magnesium Ion Exchange Activity [MoA]",
+  "Osmotic Activity [MoA]",
+  "Osmotic Laxative [EPC]",
+  "Phosphate Binder [EPC]",
+  "Phosphate Chelating Activity [MoA]",
+  "Potassium Compounds [CS]",
+  "Potassium Salt [EPC]",
+  "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+ ],
+ "source": "openFDA ndc (80 个产品, 查询 'Potassium chloride')",
+ "retrieved_at": "2026-10-03T23:26:07"
+}

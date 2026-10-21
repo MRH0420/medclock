@@ -1,0 +1,608 @@
+{
+ "schema": "medcheck/fixture-index@1",
+ "note": "本地预抓取的 FDA 官方说明书快照，仅供 --offline 演示使用。",
+ "drugs": {
+  "acetaminophen.json": {
+   "generic_name": [
+    "ACETAMINOPHEN"
+   ],
+   "brand_name": [
+    "Acetaminophen"
+   ],
+   "effective_time": "20251003",
+   "retrieved_at": "2026-10-03T03:19:11",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=004c39cd-b4f4-1cae-e063-6394a90a0697",
+   "aliases": [
+    "acetaminophen"
+   ]
+  },
+  "albuterol.json": {
+   "generic_name": [
+    "ALBUTEROL SULFATE"
+   ],
+   "brand_name": [
+    "Albuterol Sulfate"
+   ],
+   "effective_time": "20231001",
+   "retrieved_at": "2026-10-03T23:23:50",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=07b1ee8b-d920-49dd-9fad-cb0fe8a35e0d",
+   "aliases": [
+    "albuterol",
+    "albuterol sulfate"
+   ]
+  },
+  "allopurinol.json": {
+   "generic_name": [
+    "ALLOPURINOL"
+   ],
+   "brand_name": [
+    "Allopurinol"
+   ],
+   "effective_time": "20240708",
+   "retrieved_at": "2026-10-03T03:19:48",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=005048dd-844f-468c-bf56-1a09727e3477",
+   "aliases": [
+    "allopurinol"
+   ]
+  },
+  "alprazolam.json": {
+   "generic_name": [
+    "ALPRAZOLAM"
+   ],
+   "brand_name": [
+    "Alprazolam"
+   ],
+   "effective_time": "20250228",
+   "retrieved_at": "2026-10-03T23:23:55",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0ffcdbab-17e4-4395-8155-5b6ad00be6c2",
+   "aliases": [
+    "alprazolam"
+   ]
+  },
+  "amiodarone.json": {
+   "generic_name": [
+    "AMIODARONE HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "Pacerone"
+   ],
+   "effective_time": "20240202",
+   "retrieved_at": "2026-10-03T03:19:17",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=02f4a736-63ed-4ad4-a1f1-b21a71e928bd",
+   "aliases": [
+    "amiodarone",
+    "amiodarone hydrochloride",
+    "pacerone"
+   ]
+  },
+  "amoxicillin.json": {
+   "generic_name": [
+    "AMOXICILLIN"
+   ],
+   "brand_name": [
+    "Amoxicillin"
+   ],
+   "effective_time": "20231218",
+   "retrieved_at": "2026-10-03T03:18:56",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00fbd46e-05fd-4f8a-9f59-a7a4d01c8e54",
+   "aliases": [
+    "amoxicillin"
+   ]
+  },
+  "aspirin.json": {
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "brand_name": [
+    "Aspirin Low Dose"
+   ],
+   "effective_time": "20250624",
+   "retrieved_at": "2026-10-03T03:18:53",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=024c5054-959f-4ea5-a71f-c0e16cc4b90c",
+   "aliases": [
+    "aspirin",
+    "aspirin low dose"
+   ]
+  },
+  "azathioprine.json": {
+   "generic_name": [
+    "AZATHIOPRINE"
+   ],
+   "brand_name": [
+    "Azathioprine"
+   ],
+   "effective_time": "20260505",
+   "retrieved_at": "2026-10-03T23:23:56",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5116b22b-1460-5535-e063-6394a90acbe5",
+   "aliases": [
+    "azathioprine"
+   ]
+  },
+  "calcium-carbonate.json": {
+   "generic_name": [
+    "CALCIUM CARBONATE"
+   ],
+   "brand_name": [
+    "Family Wellness Ultra Stregth Antacid 171AB"
+   ],
+   "effective_time": "20240417",
+   "retrieved_at": "2026-10-03T23:23:49",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021e1a7f-8e78-4879-b101-0ddf74e2f1b7",
+   "aliases": [
+    "calcium carbonate",
+    "family wellness ultra stregth antacid 171ab"
+   ]
+  },
+  "cefdinir.json": {
+   "generic_name": [
+    "CEFDINIR"
+   ],
+   "brand_name": [
+    "Cefdinir"
+   ],
+   "effective_time": "20260820",
+   "retrieved_at": "2026-10-03T03:18:55",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0eeac6df-bad7-413e-8b41-0660f3a99373",
+   "aliases": [
+    "cefdinir",
+    "cefdinir monohydrate"
+   ]
+  },
+  "ciprofloxacin.json": {
+   "generic_name": [
+    "CIPROFLOXACIN HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "Ciprofloxacin"
+   ],
+   "effective_time": "20260713",
+   "retrieved_at": "2026-10-03T23:23:53",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fe3becb-f90e-4187-a8e8-bd0de5a79ad2",
+   "aliases": [
+    "ciprofloxacin",
+    "ciprofloxacin hydrochloride"
+   ]
+  },
+  "clarithromycin.json": {
+   "generic_name": [
+    "CLARITHROMYCIN"
+   ],
+   "brand_name": [
+    "Clarithromycin"
+   ],
+   "effective_time": "20240116",
+   "retrieved_at": "2026-10-03T03:19:14",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0c7d8391-50ef-4827-abe6-e0fc0c2f1636",
+   "aliases": [
+    "clarithromycin"
+   ]
+  },
+  "clopidogrel.json": {
+   "generic_name": [
+    "CLOPIDOGREL"
+   ],
+   "brand_name": [
+    "Clopidogrel"
+   ],
+   "effective_time": "20250723",
+   "retrieved_at": "2026-10-03T03:19:03",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0d010775-1160-4b2e-a928-563a02edd191",
+   "aliases": [
+    "clopidogrel",
+    "clopidogrel bisulfate"
+   ]
+  },
+  "digoxin.json": {
+   "generic_name": [
+    "DIGOXIN"
+   ],
+   "brand_name": [
+    "Digoxin"
+   ],
+   "effective_time": "20260414",
+   "retrieved_at": "2026-10-03T03:19:16",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2636527a-1ecd-455f-a928-19549ac83fa1",
+   "aliases": [
+    "digoxin"
+   ]
+  },
+  "fluoxetine.json": {
+   "generic_name": [
+    "FLUOXETINE HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "Fluoxetine"
+   ],
+   "effective_time": "20251002",
+   "retrieved_at": "2026-10-03T23:23:51",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06394c4b-99f4-4257-bf29-53c170c5a061",
+   "aliases": [
+    "fluoxetine",
+    "fluoxetine hydrochloride"
+   ]
+  },
+  "ibuprofen.json": {
+   "generic_name": [
+    "IBUPROFEN"
+   ],
+   "brand_name": [
+    "Ibuprofen"
+   ],
+   "effective_time": "20250214",
+   "retrieved_at": "2026-10-03T03:18:53",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00872852-680a-41b3-901b-b991b12a176d",
+   "aliases": [
+    "ibuprofen"
+   ]
+  },
+  "levothyroxine.json": {
+   "generic_name": [
+    "LEVOTHYROXINE SODIUM"
+   ],
+   "brand_name": [
+    "Levothyroxine sodium"
+   ],
+   "effective_time": "20260324",
+   "retrieved_at": "2026-10-03T03:19:09",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=008de8fd-150f-4022-8ccb-c8bfa94875c7",
+   "aliases": [
+    "levothyroxine",
+    "levothyroxine sodium"
+   ]
+  },
+  "lisinopril.json": {
+   "generic_name": [
+    "LISINOPRIL"
+   ],
+   "brand_name": [
+    "LISINOPRIL"
+   ],
+   "effective_time": "20260522",
+   "retrieved_at": "2026-10-03T23:23:57",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=02c23f9c-f3cf-4366-ae1e-56296f1fedf9",
+   "aliases": [
+    "lisinopril"
+   ]
+  },
+  "lithium-carbonate.json": {
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "brand_name": [
+    "Lithium Carbonate"
+   ],
+   "effective_time": "20260706",
+   "retrieved_at": "2026-10-03T03:19:20",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=05312159-3d8a-45e0-99cb-b83a7b200cd3",
+   "aliases": [
+    "lithium",
+    "lithium carbonate"
+   ]
+  },
+  "lithium.json": {
+   "generic_name": [
+    "LITHIUM CARBONATE"
+   ],
+   "brand_name": [
+    "lithium carbonate"
+   ],
+   "effective_time": "20260427",
+   "retrieved_at": "2026-10-03T23:23:47",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01c4facd-ed79-4078-ba33-2044de372d0f",
+   "aliases": [
+    "lithium",
+    "lithium carbonate"
+   ]
+  },
+  "metformin.json": {
+   "generic_name": [
+    "METFORMIN HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "Metformin Hydrochloride"
+   ],
+   "effective_time": "20260101",
+   "retrieved_at": "2026-10-03T03:22:16",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0178b9dd-bafa-9e81-e063-6294a90a88b0",
+   "aliases": [
+    "metformin",
+    "metformin hydrochloride"
+   ]
+  },
+  "methotrexate.json": {
+   "generic_name": [
+    "METHOTREXATE"
+   ],
+   "brand_name": [
+    "Methotrexate"
+   ],
+   "effective_time": "20250822",
+   "retrieved_at": "2026-10-03T03:19:08",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0e30eaef-5a09-4104-8a11-c32933eadeab",
+   "aliases": [
+    "methotrexate",
+    "methotrexate sodium"
+   ]
+  },
+  "metoprolol.json": {
+   "generic_name": [
+    "METOPROLOL"
+   ],
+   "brand_name": [
+    "METOPROLOL TARTRATE"
+   ],
+   "effective_time": "20260727",
+   "retrieved_at": "2026-10-03T23:23:58",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00940cc5-d2eb-4841-9138-de97d7b1c674",
+   "aliases": [
+    "metoprolol",
+    "metoprolol tartrate"
+   ]
+  },
+  "naproxen.json": {
+   "generic_name": [
+    "NAPROXEN"
+   ],
+   "brand_name": [
+    "Naproxen"
+   ],
+   "effective_time": "20260519",
+   "retrieved_at": "2026-10-03T03:18:54",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0041b483-34db-49a6-8665-f87e286cd0b8",
+   "aliases": [
+    "naproxen"
+   ]
+  },
+  "nitroglycerin.json": {
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "effective_time": "20250117",
+   "retrieved_at": "2026-10-03T03:19:03",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=141b6098-dd8e-4c99-a581-197d46f9e0b1",
+   "aliases": [
+    "nitroglycerin"
+   ]
+  },
+  "omeprazole.json": {
+   "generic_name": [
+    "OMEPRAZOLE"
+   ],
+   "brand_name": [
+    "Omeprazole"
+   ],
+   "effective_time": "20241001",
+   "retrieved_at": "2026-10-03T03:19:04",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03ac077f-3873-4087-96d0-89049161dea9",
+   "aliases": [
+    "omeprazole"
+   ]
+  },
+  "oxycodone.json": {
+   "generic_name": [
+    "OXYCODONE HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "Oxycodone Hydrochloride"
+   ],
+   "effective_time": "20251227",
+   "retrieved_at": "2026-10-03T23:23:55",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=056bdaac-4a43-42f0-9435-f349d3ccc128",
+   "aliases": [
+    "oxycodone",
+    "oxycodone hydrochloride"
+   ]
+  },
+  "phenelzine.json": {
+   "generic_name": [
+    "PHENELZINE SULFATE"
+   ],
+   "brand_name": [
+    "phenelzine sulfate"
+   ],
+   "effective_time": "20260521",
+   "retrieved_at": "2026-10-03T23:23:51",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa041652-fdde-4794-a8d2-279dd309e075",
+   "aliases": [
+    "phenelzine",
+    "phenelzine sulfate"
+   ]
+  },
+  "potassium-chloride.json": {
+   "generic_name": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "brand_name": [
+    "Potassium Chloride"
+   ],
+   "effective_time": "20250923",
+   "retrieved_at": "2026-10-03T23:23:52",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00615fad-ad3b-46e8-a89d-48290d937ae2",
+   "aliases": [
+    "potassium chloride"
+   ]
+  },
+  "propranolol.json": {
+   "generic_name": [
+    "PROPRANOLOL HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "Propranolol Hydrochloride"
+   ],
+   "effective_time": "20250919",
+   "retrieved_at": "2026-10-03T23:23:49",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=015b5e4f-3228-4259-b419-e0e49694a058",
+   "aliases": [
+    "propranolol",
+    "propranolol hydrochloride"
+   ]
+  },
+  "rifampin.json": {
+   "generic_name": [
+    "RIFAMPIN"
+   ],
+   "brand_name": [
+    "RIFAMPIN"
+   ],
+   "effective_time": "20251013",
+   "retrieved_at": "2026-10-03T23:23:48",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=410a314f-83bf-d9b3-e063-6294a90a872c",
+   "aliases": [
+    "rifampin"
+   ]
+  },
+  "sertraline.json": {
+   "generic_name": [
+    "SERTRALINE"
+   ],
+   "brand_name": [
+    "Sertraline"
+   ],
+   "effective_time": "20260330",
+   "retrieved_at": "2026-10-03T03:19:05",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03e1f274-fa9a-4461-b7c9-31ba6428c107",
+   "aliases": [
+    "sertraline",
+    "sertraline hydrochloride"
+   ]
+  },
+  "sildenafil.json": {
+   "generic_name": [
+    "SILDENAFIL CITRATE"
+   ],
+   "brand_name": [
+    "SILDENAFIL CITRATE"
+   ],
+   "effective_time": "20260729",
+   "retrieved_at": "2026-10-03T03:22:20",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00ee09dd-2de0-4dc4-85f6-b51ed6eabd5b",
+   "aliases": [
+    "sildenafil",
+    "sildenafil citrate"
+   ]
+  },
+  "simvastatin.json": {
+   "generic_name": [
+    "SIMVASTATIN"
+   ],
+   "brand_name": [
+    "Simvastatin"
+   ],
+   "effective_time": "20251125",
+   "retrieved_at": "2026-10-03T03:22:18",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=02245025-218d-4297-aeb6-91fefa178291",
+   "aliases": [
+    "simvastatin"
+   ]
+  },
+  "sitagliptin.json": {
+   "generic_name": [
+    "SITAGLIPTIN"
+   ],
+   "brand_name": [
+    "JANUVIA"
+   ],
+   "effective_time": "20251105",
+   "retrieved_at": "2026-10-03T23:23:46",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=39253ddd-0245-43b1-ad28-d5923983afb4",
+   "aliases": [
+    "januvia",
+    "sitagliptin",
+    "sitagliptin phosphate"
+   ]
+  },
+  "spironolactone.json": {
+   "generic_name": [
+    "SPIRONOLACTONE"
+   ],
+   "brand_name": [
+    "Aldactone"
+   ],
+   "effective_time": "20251128",
+   "retrieved_at": "2026-10-03T03:19:19",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+   "aliases": [
+    "aldactone",
+    "spironolactone"
+   ]
+  },
+  "tetracycline.json": {
+   "generic_name": [
+    "TETRACYCLINE HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "Tetracycline Hydrochloride"
+   ],
+   "effective_time": "20260522",
+   "retrieved_at": "2026-10-03T23:23:49",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00acf413-c5d2-4a54-9d0d-56266cbc9edc",
+   "aliases": [
+    "tetracycline",
+    "tetracycline hydrochloride"
+   ]
+  },
+  "tizanidine.json": {
+   "generic_name": [
+    "TIZANIDINE"
+   ],
+   "brand_name": [
+    "Tizanidine"
+   ],
+   "effective_time": "20231109",
+   "retrieved_at": "2026-10-03T23:23:54",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=03fa03a6-fd05-4f17-872a-3c123330935d",
+   "aliases": [
+    "tizanidine",
+    "tizanidine hydrochloride"
+   ]
+  },
+  "tramadol.json": {
+   "generic_name": [
+    "TRAMADOL HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "TRAMADOL HYDROCHLORIDE"
+   ],
+   "effective_time": "20221001",
+   "retrieved_at": "2026-10-03T03:19:07",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00b7f61b-5173-43e6-a3f9-d2efbda40c19",
+   "aliases": [
+    "tramadol",
+    "tramadol hydrochloride"
+   ]
+  },
+  "verapamil.json": {
+   "generic_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "brand_name": [
+    "VERAPAMIL HYDROCHLORIDE"
+   ],
+   "effective_time": "20241016",
+   "retrieved_at": "2026-10-03T23:23:58",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b00ec93-0bb3-4181-a6ef-45206f0621f7",
+   "aliases": [
+    "verapamil",
+    "verapamil hydrochloride"
+   ]
+  },
+  "warfarin.json": {
+   "generic_name": [
+    "WARFARIN SODIUM"
+   ],
+   "brand_name": [
+    "Warfarin Sodium"
+   ],
+   "effective_time": "20210729",
+   "retrieved_at": "2026-10-03T03:18:51",
+   "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2c8f47c6-a180-4ad8-b962-04069d2270cb",
+   "aliases": [
+    "warfarin",
+    "warfarin sodium"
+   ]
+  }
+ }
+}

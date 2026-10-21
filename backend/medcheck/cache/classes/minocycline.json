@@ -1,0 +1,12 @@
+{
+ "schema": "medcheck/drug-class-cache@1",
+ "query": "minocycline",
+ "drug": "Minocycline Hydrochloride",
+ "raw": [
+  "Decreased Prothrombin Activity [PE]",
+  "Tetracycline-class Drug [EPC]",
+  "Tetracyclines [CS]"
+ ],
+ "source": "openFDA ndc (79 个产品, 查询 'minocycline')",
+ "retrieved_at": "2026-10-04T09:28:34"
+}

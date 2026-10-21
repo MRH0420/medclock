@@ -1,0 +1,1111 @@
+{
+ "schema": "medcheck/drug-class-fixture@1",
+ "note": "从 openFDA NDC/label 端点抓取的药理类别（pharm_class），供 --offline 做「说明书按类别描述、未点名本药」的检测。",
+ "drugs": {
+  "WARFARIN": {
+   "drug": "WARFARIN",
+   "raw": [
+    "Vitamin K Antagonist [EPC]",
+    "Vitamin K Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (98 个产品, 查询 'WARFARIN')": "2026-10-03T23:23:13",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "warfarin": {
+   "drug": "warfarin",
+   "raw": [
+    "Vitamin K Antagonist [EPC]",
+    "Vitamin K Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (98 个产品, 查询 'warfarin')": "2026-10-03T23:23:13",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "IBUPROFEN": {
+   "drug": "IBUPROFEN",
+   "raw": [
+    "Anti-Inflammatory Agents",
+    "Cyclooxygenase Inhibitors [MoA]",
+    "Non-Steroidal [CS]",
+    "Nonsteroidal Anti-inflammatory Drug [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (76 个产品, 查询 'IBUPROFEN')": "2026-10-03T23:23:14",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "ibuprofen": {
+   "drug": "ibuprofen",
+   "raw": [
+    "Anti-Inflammatory Agents",
+    "Cyclooxygenase Inhibitors [MoA]",
+    "Non-Steroidal [CS]",
+    "Nonsteroidal Anti-inflammatory Drug [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (76 个产品, 查询 'ibuprofen')": "2026-10-03T23:23:14",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "ASPIRIN": {
+   "drug": "ASPIRIN",
+   "raw": [
+    "Anti-Inflammatory Agents",
+    "Cyclooxygenase Inhibitors [MoA]",
+    "Decreased Platelet Aggregation [PE]",
+    "Decreased Prostaglandin Production [PE]",
+    "Non-Steroidal [CS]",
+    "Nonsteroidal Anti-inflammatory Drug [EPC]",
+    "Platelet Aggregation Inhibitor [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (51 个产品, 查询 'ASPIRIN')": "2026-10-03T23:23:15",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "aspirin": {
+   "drug": "aspirin",
+   "raw": [
+    "Anti-Inflammatory Agents",
+    "Cyclooxygenase Inhibitors [MoA]",
+    "Decreased Platelet Aggregation [PE]",
+    "Decreased Prostaglandin Production [PE]",
+    "Non-Steroidal [CS]",
+    "Nonsteroidal Anti-inflammatory Drug [EPC]",
+    "Platelet Aggregation Inhibitor [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (51 个产品, 查询 'aspirin')": "2026-10-03T23:23:15",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "NAPROXEN": {
+   "drug": "NAPROXEN",
+   "raw": [
+    "Anti-Inflammatory Agents",
+    "Cyclooxygenase Inhibitors [MoA]",
+    "Non-Steroidal [CS]",
+    "Nonsteroidal Anti-inflammatory Drug [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (81 个产品, 查询 'NAPROXEN')": "2026-10-03T23:23:15",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "naproxen": {
+   "drug": "naproxen",
+   "raw": [
+    "Anti-Inflammatory Agents",
+    "Cyclooxygenase Inhibitors [MoA]",
+    "Non-Steroidal [CS]",
+    "Nonsteroidal Anti-inflammatory Drug [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (81 个产品, 查询 'naproxen')": "2026-10-03T23:23:16",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "CEFDINIR": {
+   "drug": "CEFDINIR",
+   "raw": [
+    "Cephalosporin Antibacterial [EPC]",
+    "Cephalosporins [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (78 个产品, 查询 'CEFDINIR')": "2026-10-03T23:23:16",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "cefdinir": {
+   "drug": "cefdinir",
+   "raw": [
+    "Cephalosporin Antibacterial [EPC]",
+    "Cephalosporins [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (78 个产品, 查询 'cefdinir')": "2026-10-03T23:23:17",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "AMOXICILLIN": {
+   "drug": "AMOXICILLIN",
+   "raw": [
+    "Penicillin-class Antibacterial [EPC]",
+    "Penicillins [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (38 个产品, 查询 'AMOXICILLIN')": "2026-10-03T23:23:17",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "amoxicillin": {
+   "drug": "amoxicillin",
+   "raw": [
+    "Penicillin-class Antibacterial [EPC]",
+    "Penicillins [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (38 个产品, 查询 'amoxicillin')": "2026-10-03T23:23:18",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "METFORMIN": {
+   "drug": "METFORMIN",
+   "raw": [
+    "Biguanide [EPC]",
+    "Biguanides [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (61 个产品, 查询 'METFORMIN')": "2026-10-03T23:23:18",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "metformin": {
+   "drug": "metformin",
+   "raw": [
+    "Biguanide [EPC]",
+    "Biguanides [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (61 个产品, 查询 'metformin')": "2026-10-03T23:23:18",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "sitagliptin": {
+   "drug": "sitagliptin",
+   "raw": [
+    "Dipeptidyl Peptidase 4 Inhibitor [EPC]",
+    "Dipeptidyl Peptidase 4 Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (23 个产品, 查询 'sitagliptin')": "2026-10-03T23:23:19",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "SILDENAFIL": {
+   "drug": "SILDENAFIL",
+   "raw": [
+    "Phosphodiesterase 5 Inhibitor [EPC]",
+    "Phosphodiesterase 5 Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (86 个产品, 查询 'SILDENAFIL')": "2026-10-03T23:23:19",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "sildenafil": {
+   "drug": "sildenafil",
+   "raw": [
+    "Phosphodiesterase 5 Inhibitor [EPC]",
+    "Phosphodiesterase 5 Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (86 个产品, 查询 'sildenafil')": "2026-10-03T23:23:20",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "NITROGLYCERIN": {
+   "drug": "NITROGLYCERIN",
+   "raw": [
+    "Nitrate Vasodilator [EPC]",
+    "Nitrates [CS]",
+    "Vasodilation [PE]"
+   ],
+   "sources": {
+    "openFDA ndc (83 个产品, 查询 'NITROGLYCERIN')": "2026-10-03T23:23:20",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "nitroglycerin": {
+   "drug": "nitroglycerin",
+   "raw": [
+    "Nitrate Vasodilator [EPC]",
+    "Nitrates [CS]",
+    "Vasodilation [PE]"
+   ],
+   "sources": {
+    "openFDA ndc (83 个产品, 查询 'nitroglycerin')": "2026-10-03T23:23:20",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "CLOPIDOGREL": {
+   "drug": "CLOPIDOGREL",
+   "raw": [
+    "Cytochrome P450 2C8 Inhibitors [MoA]",
+    "Decreased Platelet Aggregation [PE]",
+    "P2Y12 Platelet Inhibitor [EPC]",
+    "P2Y12 Receptor Antagonists [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (18 个产品, 查询 'CLOPIDOGREL')": "2026-10-03T23:23:21",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "CLOPIDOGREL BISULFATE": {
+   "drug": "CLOPIDOGREL BISULFATE",
+   "raw": [
+    "Cytochrome P450 2C8 Inhibitors [MoA]",
+    "Decreased Platelet Aggregation [PE]",
+    "P2Y12 Platelet Inhibitor [EPC]",
+    "P2Y12 Receptor Antagonists [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (48 个产品, 查询 'CLOPIDOGREL BISULFATE')": "2026-10-03T23:23:21",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "clopidogrel": {
+   "drug": "clopidogrel",
+   "raw": [
+    "Cytochrome P450 2C8 Inhibitors [MoA]",
+    "Decreased Platelet Aggregation [PE]",
+    "P2Y12 Platelet Inhibitor [EPC]",
+    "P2Y12 Receptor Antagonists [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (18 个产品, 查询 'clopidogrel')": "2026-10-03T23:23:22",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "OMEPRAZOLE": {
+   "drug": "OMEPRAZOLE",
+   "raw": [
+    "Alkalinizing Activity [MoA]",
+    "Cytochrome P450 2C19 Inhibitors [MoA]",
+    "Increased Large Intestinal Motility [PE]",
+    "Inhibition Large Intestine Fluid/Electrolyte Absorption [PE]",
+    "Osmotic Activity [MoA]",
+    "Osmotic Laxative [EPC]",
+    "Proton Pump Inhibitor [EPC]",
+    "Proton Pump Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (87 个产品, 查询 'OMEPRAZOLE')": "2026-10-03T23:23:22",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "omeprazole": {
+   "drug": "omeprazole",
+   "raw": [
+    "Alkalinizing Activity [MoA]",
+    "Cytochrome P450 2C19 Inhibitors [MoA]",
+    "Increased Large Intestinal Motility [PE]",
+    "Inhibition Large Intestine Fluid/Electrolyte Absorption [PE]",
+    "Osmotic Activity [MoA]",
+    "Osmotic Laxative [EPC]",
+    "Proton Pump Inhibitor [EPC]",
+    "Proton Pump Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (87 个产品, 查询 'omeprazole')": "2026-10-03T23:23:22",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "SERTRALINE": {
+   "drug": "SERTRALINE",
+   "raw": [
+    "Cytochrome P450 2D6 Inhibitors [MoA]",
+    "Serotonin Reuptake Inhibitor [EPC]",
+    "Serotonin Uptake Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (88 个产品, 查询 'SERTRALINE')": "2026-10-03T23:23:23",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "sertraline": {
+   "drug": "sertraline",
+   "raw": [
+    "Cytochrome P450 2D6 Inhibitors [MoA]",
+    "Serotonin Reuptake Inhibitor [EPC]",
+    "Serotonin Uptake Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (88 个产品, 查询 'sertraline')": "2026-10-03T23:23:24",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "TRAMADOL": {
+   "drug": "TRAMADOL",
+   "raw": [
+    "Full Opioid Agonists [MoA]",
+    "Opioid Agonist [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (75 个产品, 查询 'TRAMADOL')": "2026-10-03T23:23:24",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "tramadol": {
+   "drug": "tramadol",
+   "raw": [
+    "Full Opioid Agonists [MoA]",
+    "Opioid Agonist [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (75 个产品, 查询 'tramadol')": "2026-10-03T23:23:24",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "METHOTREXATE": {
+   "drug": "METHOTREXATE",
+   "raw": [
+    "Folate Analog Metabolic Inhibitor [EPC]",
+    "Folic Acid Metabolism Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (77 个产品, 查询 'METHOTREXATE')": "2026-10-03T23:23:25",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "methotrexate": {
+   "drug": "methotrexate",
+   "raw": [
+    "Folate Analog Metabolic Inhibitor [EPC]",
+    "Folic Acid Metabolism Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (77 个产品, 查询 'methotrexate')": "2026-10-03T23:23:25",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "LEVOTHYROXINE": {
+   "drug": "LEVOTHYROXINE",
+   "raw": [
+    "Thyroxine [CS]",
+    "l-Thyroxine [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (96 个产品, 查询 'LEVOTHYROXINE')": "2026-10-03T23:23:26",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "levothyroxine": {
+   "drug": "levothyroxine",
+   "raw": [
+    "Thyroxine [CS]",
+    "l-Thyroxine [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (96 个产品, 查询 'levothyroxine')": "2026-10-03T23:23:26",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "ACETAMINOPHEN": {
+   "drug": "ACETAMINOPHEN",
+   "raw": [
+    "Anti-Inflammatory Agents, Non-Steroidal [CS]",
+    "Cyclooxygenase Inhibitors [MoA]",
+    "Nonsteroidal Anti-inflammatory Drug [EPC]"
+   ],
+   "sources": {
+    "openFDA label (openfda.pharm_class_*)": "2026-10-03T23:23:28",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "acetaminophen": {
+   "drug": "acetaminophen",
+   "raw": [
+    "Anti-Inflammatory Agents, Non-Steroidal [CS]",
+    "Cyclooxygenase Inhibitors [MoA]",
+    "Nonsteroidal Anti-inflammatory Drug [EPC]"
+   ],
+   "sources": {
+    "openFDA label (openfda.pharm_class_*)": "2026-10-03T23:23:29",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "SIMVASTATIN": {
+   "drug": "SIMVASTATIN",
+   "raw": [
+    "HMG-CoA Reductase Inhibitor [EPC]",
+    "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (84 个产品, 查询 'SIMVASTATIN')": "2026-10-03T23:23:30",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "simvastatin": {
+   "drug": "simvastatin",
+   "raw": [
+    "HMG-CoA Reductase Inhibitor [EPC]",
+    "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (84 个产品, 查询 'simvastatin')": "2026-10-03T23:23:30",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "CLARITHROMYCIN": {
+   "drug": "CLARITHROMYCIN",
+   "raw": [
+    "Cytochrome P450 3A Inhibitors [MoA]",
+    "Cytochrome P450 3A4 Inhibitors [MoA]",
+    "Macrolide Antimicrobial [EPC]",
+    "Macrolides [CS]",
+    "P-Glycoprotein Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (54 个产品, 查询 'CLARITHROMYCIN')": "2026-10-03T23:23:31",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "clarithromycin": {
+   "drug": "clarithromycin",
+   "raw": [
+    "Cytochrome P450 3A Inhibitors [MoA]",
+    "Cytochrome P450 3A4 Inhibitors [MoA]",
+    "Macrolide Antimicrobial [EPC]",
+    "Macrolides [CS]",
+    "P-Glycoprotein Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (54 个产品, 查询 'clarithromycin')": "2026-10-03T23:23:31",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "DIGOXIN": {
+   "drug": "DIGOXIN",
+   "raw": [
+    "Cardiac Glycoside [EPC]",
+    "Cardiac Glycosides [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (59 个产品, 查询 'DIGOXIN')": "2026-10-03T23:23:31",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "digoxin": {
+   "drug": "digoxin",
+   "raw": [
+    "Cardiac Glycoside [EPC]",
+    "Cardiac Glycosides [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (59 个产品, 查询 'digoxin')": "2026-10-03T23:23:32",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "AMIODARONE": {
+   "drug": "AMIODARONE",
+   "raw": [
+    "Antiarrhythmic [EPC]",
+    "Cytochrome P450 1A2 Inhibitors [MoA]",
+    "Cytochrome P450 2C9 Inhibitors [MoA]",
+    "Cytochrome P450 2D6 Inhibitors [MoA]",
+    "Cytochrome P450 3A Inhibitors [MoA]",
+    "Cytochrome P450 3A4 Inhibitors [MoA]",
+    "P-Glycoprotein Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (69 个产品, 查询 'AMIODARONE')": "2026-10-03T23:23:32",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "amiodarone": {
+   "drug": "amiodarone",
+   "raw": [
+    "Antiarrhythmic [EPC]",
+    "Cytochrome P450 1A2 Inhibitors [MoA]",
+    "Cytochrome P450 2C9 Inhibitors [MoA]",
+    "Cytochrome P450 2D6 Inhibitors [MoA]",
+    "Cytochrome P450 3A Inhibitors [MoA]",
+    "Cytochrome P450 3A4 Inhibitors [MoA]",
+    "P-Glycoprotein Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (69 个产品, 查询 'amiodarone')": "2026-10-03T23:23:32",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "SPIRONOLACTONE": {
+   "drug": "SPIRONOLACTONE",
+   "raw": [
+    "Aldosterone Antagonist [EPC]",
+    "Aldosterone Antagonists [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (87 个产品, 查询 'SPIRONOLACTONE')": "2026-10-03T23:23:33",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "spironolactone": {
+   "drug": "spironolactone",
+   "raw": [
+    "Aldosterone Antagonist [EPC]",
+    "Aldosterone Antagonists [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (87 个产品, 查询 'spironolactone')": "2026-10-03T23:23:33",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "lithium": {
+   "drug": "lithium",
+   "raw": [
+    "Mood Stabilizer [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (33 个产品, 查询 'lithium')": "2026-10-03T23:23:33",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "ALLOPURINOL": {
+   "drug": "ALLOPURINOL",
+   "raw": [
+    "Xanthine Oxidase Inhibitor [EPC]",
+    "Xanthine Oxidase Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (88 个产品, 查询 'ALLOPURINOL')": "2026-10-03T23:23:34",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "allopurinol": {
+   "drug": "allopurinol",
+   "raw": [
+    "Xanthine Oxidase Inhibitor [EPC]",
+    "Xanthine Oxidase Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (88 个产品, 查询 'allopurinol')": "2026-10-03T23:23:34",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "SITAGLIPTIN": {
+   "drug": "sitagliptin",
+   "raw": [
+    "Dipeptidyl Peptidase 4 Inhibitor [EPC]",
+    "Dipeptidyl Peptidase 4 Inhibitors [MoA]"
+   ],
+   "sources": {
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "LITHIUM": {
+   "drug": "lithium",
+   "raw": [
+    "Mood Stabilizer [EPC]"
+   ],
+   "sources": {
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "RIFAMPIN": {
+   "drug": "RIFAMPIN",
+   "raw": [
+    "Rifamycin Antibacterial [EPC]",
+    "Rifamycins [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (19 个产品, 查询 'RIFAMPIN')": "2026-10-03T23:23:59",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "rifampin": {
+   "drug": "rifampin",
+   "raw": [
+    "Rifamycin Antibacterial [EPC]",
+    "Rifamycins [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (19 个产品, 查询 'rifampin')": "2026-10-03T23:24:00",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "TETRACYCLINE": {
+   "drug": "TETRACYCLINE",
+   "raw": [
+    "Tetracycline-class Antimicrobial [EPC]",
+    "Tetracyclines [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (34 个产品, 查询 'TETRACYCLINE')": "2026-10-03T23:24:00",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "tetracycline": {
+   "drug": "tetracycline",
+   "raw": [
+    "Tetracycline-class Antimicrobial [EPC]",
+    "Tetracyclines [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (34 个产品, 查询 'tetracycline')": "2026-10-03T23:24:00",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "CALCIUM CARBONATE": {
+   "drug": "Calcium carbonate",
+   "raw": [
+    "Alkalinizing Activity [MoA]",
+    "Blood Coagulation Factor [EPC]",
+    "Calcium [CS]",
+    "Cations",
+    "Divalent [CS]",
+    "Increased Coagulation Factor Activity [PE]",
+    "Phosphate Binder [EPC]",
+    "Phosphate Chelating Activity [MoA]",
+    "Skin Barrier Activity [PE]"
+   ],
+   "sources": {
+    "openFDA ndc (52 个产品, 查询 'CALCIUM CARBONATE')": "2026-10-03T23:24:01",
+    "cache (openFDA ndc (52 个产品, 查询 'Calcium carbonate'))": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "calcium carbonate": {
+   "drug": "Calcium carbonate",
+   "raw": [
+    "Alkalinizing Activity [MoA]",
+    "Blood Coagulation Factor [EPC]",
+    "Calcium [CS]",
+    "Cations",
+    "Divalent [CS]",
+    "Increased Coagulation Factor Activity [PE]",
+    "Phosphate Binder [EPC]",
+    "Phosphate Chelating Activity [MoA]",
+    "Skin Barrier Activity [PE]"
+   ],
+   "sources": {
+    "openFDA ndc (52 个产品, 查询 'calcium carbonate')": "2026-10-03T23:24:01",
+    "cache (openFDA ndc (52 个产品, 查询 'Calcium carbonate'))": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "PROPRANOLOL": {
+   "drug": "PROPRANOLOL",
+   "raw": [
+    "Adrenergic beta-Antagonists [MoA]",
+    "beta-Adrenergic Blocker [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (87 个产品, 查询 'PROPRANOLOL')": "2026-10-03T23:24:02",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "propranolol": {
+   "drug": "propranolol",
+   "raw": [
+    "Adrenergic beta-Antagonists [MoA]",
+    "beta-Adrenergic Blocker [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (87 个产品, 查询 'propranolol')": "2026-10-03T23:24:02",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "ALBUTEROL": {
+   "drug": "ALBUTEROL",
+   "raw": [
+    "Adrenergic beta2-Agonists [MoA]",
+    "beta2-Adrenergic Agonist [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (69 个产品, 查询 'ALBUTEROL')": "2026-10-03T23:24:03",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "albuterol": {
+   "drug": "albuterol",
+   "raw": [
+    "Adrenergic beta2-Agonists [MoA]",
+    "beta2-Adrenergic Agonist [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (69 个产品, 查询 'albuterol')": "2026-10-03T23:24:03",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "PHENELZINE": {
+   "drug": "PHENELZINE",
+   "raw": [
+    "Monoamine Oxidase Inhibitor [EPC]",
+    "Monoamine Oxidase Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (3 个产品, 查询 'PHENELZINE')": "2026-10-03T23:24:03",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "phenelzine": {
+   "drug": "phenelzine",
+   "raw": [
+    "Monoamine Oxidase Inhibitor [EPC]",
+    "Monoamine Oxidase Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (3 个产品, 查询 'phenelzine')": "2026-10-03T23:24:04",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "FLUOXETINE": {
+   "drug": "FLUOXETINE",
+   "raw": [
+    "Serotonin Reuptake Inhibitor [EPC]",
+    "Serotonin Uptake Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (78 个产品, 查询 'FLUOXETINE')": "2026-10-03T23:24:04",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "fluoxetine": {
+   "drug": "fluoxetine",
+   "raw": [
+    "Serotonin Reuptake Inhibitor [EPC]",
+    "Serotonin Uptake Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (78 个产品, 查询 'fluoxetine')": "2026-10-03T23:24:04",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "POTASSIUM CHLORIDE": {
+   "drug": "Potassium chloride",
+   "raw": [
+    "Acidifying Activity [MoA]",
+    "Blood Coagulation Factor [EPC]",
+    "Calcium [CS]",
+    "Calculi Dissolution Agent [EPC]",
+    "Cations",
+    "Divalent [CS]",
+    "Increased Coagulation Factor Activity [PE]",
+    "Increased Large Intestinal Motility [PE]",
+    "Inhibition Large Intestine Fluid/Electrolyte Absorption [PE]",
+    "Inhibition Small Intestine Fluid/Electrolyte Absorption [PE]",
+    "Magnesium Ion Exchange Activity [MoA]",
+    "Osmotic Activity [MoA]",
+    "Osmotic Laxative [EPC]",
+    "Phosphate Binder [EPC]",
+    "Phosphate Chelating Activity [MoA]",
+    "Potassium Compounds [CS]",
+    "Potassium Salt [EPC]",
+    "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+   ],
+   "sources": {
+    "openFDA ndc (80 个产品, 查询 'POTASSIUM CHLORIDE')": "2026-10-03T23:24:05",
+    "cache (openFDA ndc (80 个产品, 查询 'Potassium chloride'))": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "potassium chloride": {
+   "drug": "Potassium chloride",
+   "raw": [
+    "Acidifying Activity [MoA]",
+    "Blood Coagulation Factor [EPC]",
+    "Calcium [CS]",
+    "Calculi Dissolution Agent [EPC]",
+    "Cations",
+    "Divalent [CS]",
+    "Increased Coagulation Factor Activity [PE]",
+    "Increased Large Intestinal Motility [PE]",
+    "Inhibition Large Intestine Fluid/Electrolyte Absorption [PE]",
+    "Inhibition Small Intestine Fluid/Electrolyte Absorption [PE]",
+    "Magnesium Ion Exchange Activity [MoA]",
+    "Osmotic Activity [MoA]",
+    "Osmotic Laxative [EPC]",
+    "Phosphate Binder [EPC]",
+    "Phosphate Chelating Activity [MoA]",
+    "Potassium Compounds [CS]",
+    "Potassium Salt [EPC]",
+    "Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]"
+   ],
+   "sources": {
+    "openFDA ndc (80 个产品, 查询 'potassium chloride')": "2026-10-03T23:24:05",
+    "cache (openFDA ndc (80 个产品, 查询 'Potassium chloride'))": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "trimethoprim-sulfamethoxazole": {
+   "drug": "trimethoprim-sulfamethoxazole",
+   "raw": [
+    "Cytochrome P450 2C8 Inhibitors [MoA]",
+    "Cytochrome P450 2C9 Inhibitors [MoA]",
+    "Dihydrofolate Reductase Inhibitor Antibacterial [EPC]",
+    "Dihydrofolate Reductase Inhibitors [MoA]",
+    "Organic Cation Transporter 2 Inhibitors [MoA]",
+    "Sulfonamide Antimicrobial [EPC]",
+    "Sulfonamides [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (98 个产品, 查询 'sulfamethoxazole and trimethoprim')": "2026-10-03T23:24:06",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "CIPROFLOXACIN": {
+   "drug": "CIPROFLOXACIN",
+   "raw": [
+    "Cytochrome P450 1A2 Inhibitors [MoA]",
+    "Fluoroquinolone Antibacterial [EPC]",
+    "Fluoroquinolones [CS]",
+    "Quinolone Antimicrobial [EPC]",
+    "Quinolones [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (76 个产品, 查询 'CIPROFLOXACIN')": "2026-10-03T23:24:07",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "ciprofloxacin": {
+   "drug": "ciprofloxacin",
+   "raw": [
+    "Cytochrome P450 1A2 Inhibitors [MoA]",
+    "Fluoroquinolone Antibacterial [EPC]",
+    "Fluoroquinolones [CS]",
+    "Quinolone Antimicrobial [EPC]",
+    "Quinolones [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (76 个产品, 查询 'ciprofloxacin')": "2026-10-03T23:24:07",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "TIZANIDINE": {
+   "drug": "TIZANIDINE",
+   "raw": [
+    "Adrenergic alpha2-Agonists [MoA]",
+    "Central alpha-2 Adrenergic Agonist [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (94 个产品, 查询 'TIZANIDINE')": "2026-10-03T23:24:08",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "tizanidine": {
+   "drug": "tizanidine",
+   "raw": [
+    "Adrenergic alpha2-Agonists [MoA]",
+    "Central alpha-2 Adrenergic Agonist [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (94 个产品, 查询 'tizanidine')": "2026-10-03T23:24:08",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "ALPRAZOLAM": {
+   "drug": "ALPRAZOLAM",
+   "raw": [
+    "Benzodiazepine [EPC]",
+    "Benzodiazepines [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (93 个产品, 查询 'ALPRAZOLAM')": "2026-10-03T23:24:09",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "alprazolam": {
+   "drug": "alprazolam",
+   "raw": [
+    "Benzodiazepine [EPC]",
+    "Benzodiazepines [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (93 个产品, 查询 'alprazolam')": "2026-10-03T23:24:09",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "OXYCODONE": {
+   "drug": "OXYCODONE",
+   "raw": [
+    "Full Opioid Agonists [MoA]",
+    "Opioid Agonist [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (44 个产品, 查询 'OXYCODONE')": "2026-10-03T23:24:09",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "oxycodone": {
+   "drug": "oxycodone",
+   "raw": [
+    "Full Opioid Agonists [MoA]",
+    "Opioid Agonist [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (44 个产品, 查询 'oxycodone')": "2026-10-03T23:24:10",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "AZATHIOPRINE": {
+   "drug": "AZATHIOPRINE",
+   "raw": [
+    "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "Nucleosides [CS]",
+    "Purine Antimetabolite [EPC]",
+    "Purines [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (34 个产品, 查询 'AZATHIOPRINE')": "2026-10-03T23:24:10",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "azathioprine": {
+   "drug": "azathioprine",
+   "raw": [
+    "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "Nucleosides [CS]",
+    "Purine Antimetabolite [EPC]",
+    "Purines [CS]"
+   ],
+   "sources": {
+    "openFDA ndc (34 个产品, 查询 'azathioprine')": "2026-10-03T23:24:10",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "LISINOPRIL": {
+   "drug": "LISINOPRIL",
+   "raw": [
+    "Angiotensin Converting Enzyme Inhibitor [EPC]",
+    "Angiotensin-converting Enzyme Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (69 个产品, 查询 'LISINOPRIL')": "2026-10-03T23:24:11",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "lisinopril": {
+   "drug": "lisinopril",
+   "raw": [
+    "Angiotensin Converting Enzyme Inhibitor [EPC]",
+    "Angiotensin-converting Enzyme Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (69 个产品, 查询 'lisinopril')": "2026-10-03T23:24:11",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "METOPROLOL": {
+   "drug": "METOPROLOL",
+   "raw": [
+    "Adrenergic beta-Antagonists [MoA]",
+    "beta-Adrenergic Blocker [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (88 个产品, 查询 'METOPROLOL')": "2026-10-03T23:24:12",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "metoprolol": {
+   "drug": "metoprolol",
+   "raw": [
+    "Adrenergic beta-Antagonists [MoA]",
+    "beta-Adrenergic Blocker [EPC]"
+   ],
+   "sources": {
+    "openFDA ndc (88 个产品, 查询 'metoprolol')": "2026-10-03T23:24:12",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "VERAPAMIL": {
+   "drug": "VERAPAMIL",
+   "raw": [
+    "Calcium Channel Antagonists [MoA]",
+    "Calcium Channel Blocker [EPC]",
+    "Cytochrome P450 3A Inhibitors [MoA]",
+    "Cytochrome P450 3A4 Inhibitors [MoA]",
+    "P-Glycoprotein Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (86 个产品, 查询 'VERAPAMIL')": "2026-10-03T23:24:13",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  },
+  "verapamil": {
+   "drug": "verapamil",
+   "raw": [
+    "Calcium Channel Antagonists [MoA]",
+    "Calcium Channel Blocker [EPC]",
+    "Cytochrome P450 3A Inhibitors [MoA]",
+    "Cytochrome P450 3A4 Inhibitors [MoA]",
+    "P-Glycoprotein Inhibitors [MoA]"
+   ],
+   "sources": {
+    "openFDA ndc (86 个产品, 查询 'verapamil')": "2026-10-03T23:24:13",
+    "fixture (openFDA)": "2026-10-03T23:30:43"
+   },
+   "retrieved_at": "2026-10-03T23:30:43"
+  }
+ }
+}

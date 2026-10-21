@@ -1,0 +1,155 @@
+{
+ "schema": "medcheck/openfda-label-cache@1",
+ "query": "Tetracycline",
+ "normalized": "Tetracycline",
+ "url": "https://api.fda.gov/drug/label.json",
+ "strategy": "generic_name",
+ "status": 200,
+ "tried": [
+  "generic_name: openfda.generic_name:\"Tetracycline\""
+ ],
+ "retrieved_at": "2026-10-03T23:00:10",
+ "label": {
+  "spl_product_data_elements": [
+   "Tetracycline Hydrochloride Tetracycline Hydrochloride Tetracycline Hydrochloride TETRACYCLINE SILICON DIOXIDE GELATIN, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM PALMITOSTEARATE FD&C BLUE NO. 1 FD&C YELLOW NO. 6 D&C YELLOW NO. 10 TITANIUM DIOXIDE Shellac ALCOHOL ISOPROPYL ALCOHOL BUTYL ALCOHOL PROPYLENE GLYCOL AMMONIA FERROSOFERRIC OXIDE POTASSIUM HYDROXIDE WATER B906 Tetracycline Hydrochloride Tetracycline Hydrochloride Tetracycline Hydrochloride TETRACYCLINE SILICON DIOXIDE GELATIN, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM PALMITOSTEARATE FD&C BLUE NO. 1 TITANIUM DIOXIDE Shellac ALCOHOL ISOPROPYL ALCOHOL BUTYL ALCOHOL PROPYLENE GLYCOL AMMONIA FERROSOFERRIC OXIDE POTASSIUM HYDROXIDE WATER B907"
+  ],
+  "spl_unclassified_section": [
+   "For Oral Use Rx only To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride and other antibacterial drugs, tetracycline hydrochloride should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.",
+   "Rx only Manufactured by: Cohance Lifesciences Limited Plot No. A-19/C, A-23A & A-23B, Road No.18, IDA Nacharam, Uppal Mandal, Medchal- Malkajgiri District -500 076, Telangana state, India. Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922 Revised: 06/25"
+  ],
+  "description": [
+   "DESCRIPTION Tetracycline is a yellow, crystalline powder. Tetracycline is stable in air but exposure to strong sunlight causes it to darken. Its potency is affected in solutions of pH below 2 and is rapidly destroyed by alkali hydroxide solutions. Tetracycline is very slightly soluble in water, freely soluble in dilute acid and in alkali hydroxide solutions, sparingly soluble in alcohol, and practically insoluble in chloroform and in ether. The chemical name for tetracycline hydrochloride is 4-(Dimethylamino)- 1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,-12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecar-boxamide monohydrochloride. Its structural formula is as follows: C 22 H 24 N 2 O 8 ∙ HCl M.W.480.90 Each capsule, for oral administration, contains 250 mg or 500 mg tetracycline hydrochloride. Inactive Ingredients : Lactose Monohydrate, Colloidal silicon dioxide, and magnesium stearate. The 250 mg capsule shells contain Gelatin, FD & C Blue 1, Titanium Dioxide, D & C Yellow 10, and FD & C Yellow 6. The 500 mg capsule shells contain Gelatin, FD&C Blue #1, and Titanium Dioxide. The imprinting ink for the 250 mg and 500 mg capsules contains Shellac, Propylene Glycol, Black Iron Oxide, Potassium Hydroxide and Purified water. Chemical Structure"
+  ],
+  "clinical_pharmacology": [
+   "CLINICAL PHARMACOLOGY Tetracyclines are readily absorbed and are bound to plasma protein in varying degrees. They are concentrated by the liver in the bile and excreted in the urine and feces at high concentrations in a biologically active form. Microbiology Tetracyclines are primarily bacteriostatic and exert their antimicrobial effect by the inhibition of protein synthesis by binding to the 30S ribosomal subunit. Tetracycline is active against a broad range of gram- negative and gram-positive organisms. The drugs in the tetracycline class have closely similar antimicrobial spectra, and cross-resistance among them is common. Tetracycline has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert. Gram-negative Bacteria Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella species Klebsiella granulomatis Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis Gram-positive Bacteria Bacillus anthracis Streptococcus pyogenes Streptococcus pneumoniae Staphylococcus aureus Listeria monocytogenes Anaerobes Bacteroides species Clostridium species Fusobacterium fusiforme Propionibacterium acnes Other Bacteria Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Rickettsiae Treponema pallidum Treponema pallidum subspecies pertenue Parasites Entamoeba species Balantidium coli Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC ."
+  ],
+  "microbiology": [
+   "Microbiology Tetracyclines are primarily bacteriostatic and exert their antimicrobial effect by the inhibition of protein synthesis by binding to the 30S ribosomal subunit. Tetracycline is active against a broad range of gram- negative and gram-positive organisms. The drugs in the tetracycline class have closely similar antimicrobial spectra, and cross-resistance among them is common. Tetracycline has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert."
+  ],
+  "indications_and_usage": [
+   "INDICATIONS AND USAGE To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride and other antibacterial drugs, tetracycline hydrochloride should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy. Tetracycline is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the conditions listed below: Upper respiratory tract infections caused by Streptococcus pyogenes , Streptococcus pneumoniae and Hemophilus influenzae . Note: Tetracycline should not be used for streptococcal disease unless the organism has been demonstrated to be susceptible. Lower respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae, Mycoplasma pneumoniae (Eaton agent, and Klebsiella sp. ). Skin and soft tissue infections caused by Streptococcus pyogenes, Staphylococcus aureaus . (Tetracyclines are not the drugs of choice in the treatment of any type of staphylococcal infections.) Infections caused by rickettsia including Rocky Mountain spotted fever, typhus group infections, Q fever, rickettsialpox. Psittacosis caused by Chlamydophila psittaci. Infections caused by Chlamydia trachomatis such as uncomplicated urethral, endocervical or rectal infections, inclusion conjunctivitis, trachoma, and lymphogranuloma venereum. Granuloma inquinale caused by Klebsiella granulomatis . Relapsing fever caused by Borrelia sp . Bartonellosis caused by Bartonella bacilliformis . Chancroid caused by Hemophilus ducreyi. Tularemia caused by Francisella tularensis. Plaque caused by Yersinia pestis. Cholera caused by Vibrio cholerae. Brucellosis caused by Brucella species (tetracycline may be used in conjunction with an aminoglycoside). Infections due to Campylobacter fetus. As adjunctive therapy in intestinal amebiasis caused by Entamoeba histolytica . Urinary tract infections caused by susceptible strains of Escherichia coli, Klebsiella, etc. Other infections caused by susceptible gram-negative organisms such as E. coli, Enterobacter aerogenes, Shigella sp., Acinetobacter sp., Klebsiella sp., and Bacteroides sp. In severe acne, adjunctive therapy with tetracycline may be useful. When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of the following infections: Syphilis and yaws caused by Treponema pallidum and pertenue , respectively, Vincent's infection caused by Fusobacterium fusiforme, Infections caused by Neisseria gonorrhoeae, Anthrax caused by Bacillus anthracis, Infections due to Listeria monocytogenes, Actinomycosis caused by Actinomyces species, Infections due to Clostridium species."
+  ],
+  "contraindications": [
+   "CONTRAINDICATIONS This drug is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines."
+  ],
+  "warnings": [
+   "WARNINGS Tooth Development The use of drugs of the tetracycline-class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown). This adverse reaction is more common during long-term use of the drugs but it has been observed following repeated short-term courses. Enamel hypoplasia has also been reported. Tetracycline drugs should not be used in this age group, except for anthrax, unless other drugs are not likely to be effective or are contraindicated. Clostridium difficile Associated Diarrhea Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including tetracyclines, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C . difficile. C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial drugs. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile , and institute surgical evaluation clinically indicated. Photosensitivity Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines. Advise patients apt to be exposed to direct sunlight or ultraviolet lights that this reaction can occur with tetracycline drugs. Discontinue treatment at the first evidence of skin erythema. Fixed Drug Eruption Fixed drug eruptions have occurred with tetracycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption (see ADVERSE REACTIONS ). If severe skin reactions occur, discontinue tetracycline hydrochloride capsules immediately and institute appropriate therapy. Intracranial Hypertension Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Achromycin V. Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy. Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH. Concomitant use of isotretinoin and tetracycline should be avoided because isotretinoin, a systemic retinoid, is also known to cause pseudotumor cerebri. Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists. If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted. Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize. Skeletal Development All tetracyclines form a stable calcium complex in any bone forming tissue. A decrease in fibula growth rate has been observed in premature infants given oral tetracycline in doses of 25 mg/kg every six hours. This reaction was shown to be reversible when the drug was discontinued. Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues and can have toxic effects on the developing fetus (often related to retardation of skeletal development). Evidence of embryotoxicity has also been noted in animals treated early in pregnancy. If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus. Tetracycline drugs should not be used during pregnancy unless absolutely necessary. Antianabolic Action The antianabolic action of the tetracyclines may cause an increase in BUN. While this is not a problem in those with normal renal function, in patients with significantly impaired renal function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia and acidosis. Laboratory Monitoring for Long-Term Therapy In long-term therapy, perform periodic laboratory evaluation of organ systems, including hematopoietic, renal and hepatic studies. If renal impairment exists, even usual oral or parenteral doses may lead to excessive systemic accumulation of the drug and possible liver toxicity. Under such conditions, lower than usual total doses are indicated, and, if therapy is prolonged, serum level determinations of the drug may be advisable."
+  ],
+  "precautions": [
+   "PRECAUTIONS General As with other antibacterials, use of this drug may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue antibacterial and institute appropriate therapy. Treat all infections due to Group A beta-hemolytic streptococci for at least ten days. Perform incision and drainage or other surgical procedures in conjunction with antibacterial therapy, when indicated. Prescribing tetracycline in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria. Information for Patients Counsel patients that antibacterial drugs including tetracycline should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When tetracycline is prescribed to treat a bacterial infection, tell patients that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by tetracycline or other antibacterial drugs in the future. Laboratory Tests In sexually transmitted infections, when coexistent syphilis is suspected, perform dark field examinations before treatment is started and the blood serology repeated monthly for at least four months. Drug Interactions Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline in conjunction with penicillin or other bactericidal antibacterials. Because the tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage. Absorption of tetracyclines is impaired by antacids containing aluminum, calcium or magnesium and preparations containing iron, zinc, or sodium bicarbonate. Concurrent use of tetracycline may render oral contraceptives less effective. Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term animal studies are currently being conducted to determine whether tetracycline hydrochloride has carcinogenic potential. Some related antibacterials (oxytetracycline, minocycline) have shown evidence of oncogenic activity in rats. In two in vitro mammalian cell assay systems (L 51784y mouse lymphoma and Chinese hamster lung cells), there was evidence of mutagenicity with tetracycline hydrochloride. Tetracycline hydrochloride had no effect on fertility when administered in the diet to male and female rats at a daily intake of approximately 400 mg/kg/day, roughly 8 times the highest recommended human dose based on body surface area. Pregnancy Teratogenic Effects Pregnancy Category D (see WARNINGS ) Nonteratogenic Effects (see WARNINGS ) Pregnant women with renal disease may be more prone to develop tetracycline-associated liver failure. Labor and Delivery The effect of tetracyclines on labor and delivery is unknown. Nursing Mothers Because of potential for serious adverse reaction in nursing infants from tetracyclines, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS ). Pediatric Use See WARNINGS and DOSAGE AND ADMINISTRATION ."
+  ],
+  "general_precautions": [
+   "General As with other antibacterials, use of this drug may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue antibacterial and institute appropriate therapy. Treat all infections due to Group A beta-hemolytic streptococci for at least ten days. Perform incision and drainage or other surgical procedures in conjunction with antibacterial therapy, when indicated. Prescribing tetracycline in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria."
+  ],
+  "information_for_patients": [
+   "Information for Patients Counsel patients that antibacterial drugs including tetracycline should only be used to treat bacterial infections. They do not treat viral infections (e.g., the common cold). When tetracycline is prescribed to treat a bacterial infection, tell patients that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed. Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by tetracycline or other antibacterial drugs in the future."
+  ],
+  "laboratory_tests": [
+   "Laboratory Tests In sexually transmitted infections, when coexistent syphilis is suspected, perform dark field examinations before treatment is started and the blood serology repeated monthly for at least four months."
+  ],
+  "drug_interactions": [
+   "Drug Interactions Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline in conjunction with penicillin or other bactericidal antibacterials. Because the tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage. Absorption of tetracyclines is impaired by antacids containing aluminum, calcium or magnesium and preparations containing iron, zinc, or sodium bicarbonate. Concurrent use of tetracycline may render oral contraceptives less effective."
+  ],
+  "carcinogenesis_and_mutagenesis_and_impairment_of_fertility": [
+   "Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term animal studies are currently being conducted to determine whether tetracycline hydrochloride has carcinogenic potential. Some related antibacterials (oxytetracycline, minocycline) have shown evidence of oncogenic activity in rats. In two in vitro mammalian cell assay systems (L 51784y mouse lymphoma and Chinese hamster lung cells), there was evidence of mutagenicity with tetracycline hydrochloride. Tetracycline hydrochloride had no effect on fertility when administered in the diet to male and female rats at a daily intake of approximately 400 mg/kg/day, roughly 8 times the highest recommended human dose based on body surface area."
+  ],
+  "pregnancy": [
+   "Pregnancy Teratogenic Effects Pregnancy Category D (see WARNINGS ) Nonteratogenic Effects (see WARNINGS ) Pregnant women with renal disease may be more prone to develop tetracycline-associated liver failure."
+  ],
+  "teratogenic_effects": [
+   "Teratogenic Effects Pregnancy Category D (see WARNINGS )"
+  ],
+  "nonteratogenic_effects": [
+   "Nonteratogenic Effects (see WARNINGS ) Pregnant women with renal disease may be more prone to develop tetracycline-associated liver failure."
+  ],
+  "labor_and_delivery": [
+   "Labor and Delivery The effect of tetracyclines on labor and delivery is unknown."
+  ],
+  "nursing_mothers": [
+   "Nursing Mothers Because of potential for serious adverse reaction in nursing infants from tetracyclines, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS )."
+  ],
+  "pediatric_use": [
+   "Pediatric Use See WARNINGS and DOSAGE AND ADMINISTRATION ."
+  ],
+  "adverse_reactions": [
+   "ADVERSE REACTIONS Gastrointestinal: anorexia, nausea, epigastric distress, vomiting, diarrhea, glossitis, black hairy tongue, dysphagia, enterocolitis, and inflammatory lesions (with Candida overgrowth) in the anogenital region. Esophagitis and esophageal ulceration have been reported in patients receiving particularly the capsule and also the tablet forms of tetracyclines. Most of the patients were reported to have taken medication immediately before going to bed (see DOSAGE AND ADMINISTRATION ). Teeth : permanent discoloration of teeth may be caused during tooth development. Enamel hypoplasia has been reported (see WARNINGS ). Skin : fixed drug eruption, maculopapular and erythematous rashes. Exfoliative dermatitis has been reported. Onycholysis and discoloration of the nails have been reported. Photosensitivity is discussed in WARNINGS . Renal Toxicity : an increase in BUN has been reported and is dose related. Liver : hepatotoxicity and liver failure have been observed in patients receiving tetracycline and in tetracycline-treated patients with renal impairment. Hypersensitivity Reactions : urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, pericarditis, exacerbation of systemic lupus erythematosus, and serum sickness-like reactions, as fever, rash, and arthralgia. Blood : hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia and eosinophilia have been reported. When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of thyroid glands. No abnormalities of thyroid function studies are known to occur. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800- FDA-1088 or contact Breckenridge Pharmaceutical, Inc. at 1-800-367-3395."
+  ],
+  "overdosage": [
+   "OVERDOSAGE In case of overdosage, discontinue medication, treat symptomatically and institute supportive measures. Tetracycline is not dialyzable."
+  ],
+  "dosage_and_administration": [
+   "DOSAGE AND ADMINISTRATION Adults Usual daily dose, 1 gram as 500 mg twice a day or 250 mg four times a day. Higher doses such as 500 mg four times a day may be required for severe infections or for those infections which do not respond to the smaller doses. For pediatric patients above eight years of age Usual daily dose, 10 mg/lb to 20 mg/lb (25mg/kg to 50 mg/kg) body weight divided in four equal doses. Administration of adequate amounts of fluid with the capsule formulation of tetracycline is recommended to wash down the drug and reduce the risk of esophageal irritation and ulceration (see ADVERSE REACTIONS ). Absorption of tetracycline is impaired by antacids containing aluminum, calcium or magnesium and preparations containing iron, zinc or sodium bicarbonate. Food and some dairy products also interfere with absorption. When used in streptococcal infections, therapy should be continued for 10 days. For treatment of brucellosis, 500 mg tetracycline four times a day for three weeks accompanied by streptomycin, 1 gram intramuscularly twice daily the first week and once daily the second week. For the treatment of syphilis in patients allergic to penicillin, the following dosage of tetracycline is recommended: early syphilis (less than one year's duration), 500 mg four times a day for 15 days. Syphilis of more than one year's duration (except neurosyphilis), 500 mg four times a day for 30 days. For treatment of gonorrhea, the recommended dose is 500 mg by mouth four times a day for seven days. Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydiatrachomatis: 500 mg, by mouth, four times a day for at least seven days. In cases of moderate to severe acne which, in the judgement of the clinician, require long-term treatment, the recommended initial dosage is 1 gram daily in divided doses. When improvement is noted, reduce dosage gradually to maintenance levels ranging from 125 mg to 500 mg daily. In some patients it may be possible to maintain adequate remission of lesions with alternate day or intermittent therapy. Tetracycline therapy of acne should augment the other standard measures known to be of value. Duration of long-term treatment which can safely be recommended has not been established (see WARNINGS and Carcinogenesis, Mutagenesis, Impairment of Fertility ). Use in Specific Population In patients with renal impairment (see WARNINGS ): decrease total dosage by reduction of recommended individual doses and/or by extending time intervals between doses."
+  ],
+  "how_supplied": [
+   "HOW SUPPLIED Tetracycline Hydrochloride Capsules, USP are available as: 250 mg: Blue opaque cap and yellow opaque Body, size '2', cap and body imprinted B906 in black ink. Available in bottles of: Bottle of 30 Count – NDC 51991-906-33 Bottle of 100 Count – NDC 51991-906-01 Bottle of 500 Count – NDC 51991-906-05 500 mg: Blue opaque cap and Blue opaque Body, size '0', cap and body imprinted B907 in black ink. Available in bottles of: Bottle of 30 Count – NDC 51991-907-33 Bottle of 100 Count – NDC 51991-907-01 Bottle of 500 Count – NDC 51991-907-05 Dispense in a tight, light-resistant container as defined in the USP. Use child-resistant closure (as required). Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]."
+  ],
+  "storage_and_handling": [
+   "Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]."
+  ],
+  "animal_pharmacology_and_or_toxicology": [
+   "ANIMAL PHARMACOLOGY AND ANIMAL TOXICOLOGY Hyperpigmentation of the thyroid has been produced by members of the tetracycline class in the following species: in rats by oxytetracycline, doxycycline, minocycline, tetracycline PO 4 and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO 4 and methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline. Minocycline, tetracycline PO 4 , methacycline, doxycycline, tetracycline base, oxytetracycline HCl and tetracycline HCl were goitrogenic in rats fed a low iodine diet. This goitrogenic effect was accomplished by high radioactive iodine uptake. Administration of minocycline also produced a large goiter with high radioiodine uptake in rats fed a relatively high iodine diet. Treatment of various animal species with this class of drugs has also resulted in the induction of thyroid hyperplasia in the following: in rats and dogs (minocycline), in chickens (chlortetracycline) and in rats and mice (oxytetracycline). Adrenal gland hyperplasia has been observed in goats and rats treated with oxytetracycline."
+  ],
+  "package_label_principal_display_panel": [
+   "PRINCIPAL DISPLAY PANEL - 250 mg Capsule Bottle Label NDC 51991-906-01 Tetracycline HCl Capsules, USP 250 mg Rx Only 100 Capsules breckenridge A Towa Company PRINCIPAL DISPLAY PANEL - 250 mg Capsule Bottle Label",
+   "PRINCIPAL DISPLAY PANEL - 500 mg Capsule Bottle Label NDC 51991-907-01 Tetracycline HCl Capsules, USP 500 mg Rx Only 100 Capsules breckenridge A Towa Company PRINCIPAL DISPLAY PANEL - 500 mg Capsule Bottle Label"
+  ],
+  "set_id": "00acf413-c5d2-4a54-9d0d-56266cbc9edc",
+  "id": "89897fdb-30b1-4625-9526-7fe813924413",
+  "effective_time": "20260522",
+  "version": "9",
+  "openfda": {
+   "application_number": [
+    "ANDA210662"
+   ],
+   "brand_name": [
+    "Tetracycline Hydrochloride"
+   ],
+   "generic_name": [
+    "TETRACYCLINE HYDROCHLORIDE"
+   ],
+   "manufacturer_name": [
+    "Breckenridge Pharmaceutical, Inc."
+   ],
+   "product_ndc": [
+    "51991-906",
+    "51991-907"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "substance_name": [
+    "TETRACYCLINE HYDROCHLORIDE"
+   ],
+   "rxcui": [
+    "198250",
+    "198252"
+   ],
+   "spl_id": [
+    "89897fdb-30b1-4625-9526-7fe813924413"
+   ],
+   "spl_set_id": [
+    "00acf413-c5d2-4a54-9d0d-56266cbc9edc"
+   ],
+   "package_ndc": [
+    "51991-906-33",
+    "51991-906-01",
+    "51991-906-05",
+    "51991-907-33",
+    "51991-907-01",
+    "51991-907-05"
+   ],
+   "is_original_packager": [
+    true
+   ],
+   "upc": [
+    "0351991906018"
+   ],
+   "unii": [
+    "P6R62377KV"
+   ]
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "schema": "medcheck/fixture@1",
+ "query": "nitroglycerin",
+ "normalized": "nitroglycerin",
+ "url": "https://api.fda.gov/drug/label.json",
+ "strategy": "generic_name",
+ "status": 200,
+ "retrieved_at": "2026-10-03T03:19:03",
+ "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=141b6098-dd8e-4c99-a581-197d46f9e0b1",
+ "drug": {
+  "generic_name": [
+   "NITROGLYCERIN"
+  ],
+  "brand_name": [
+   "nitroglycerin"
+  ],
+  "substance_name": [
+   "NITROGLYCERIN"
+  ]
+ },
+ "safety_fields": [
+  "warnings_and_cautions",
+  "contraindications",
+  "pregnancy",
+  "pediatric_use",
+  "geriatric_use",
+  "use_in_specific_populations",
+  "adverse_reactions",
+  "drug_interactions",
+  "overdosage",
+  "dosage_and_administration",
+  "information_for_patients"
+ ],
+ "label": {
+  "id": "0edbfc4f-af8c-475c-b2e6-16ba8e6a0fde",
+  "set_id": "141b6098-dd8e-4c99-a581-197d46f9e0b1",
+  "effective_time": "20250117",
+  "version": "2",
+  "openfda": {
+   "application_number": [
+    "ANDA217970"
+   ],
+   "brand_name": [
+    "nitroglycerin"
+   ],
+   "generic_name": [
+    "NITROGLYCERIN"
+   ],
+   "manufacturer_name": [
+    "NorthStar RxLLC"
+   ],
+   "product_ndc": [
+    "72603-266"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "route": [
+    "SUBLINGUAL"
+   ],
+   "substance_name": [
+    "NITROGLYCERIN"
+   ],
+   "rxcui": [
+    "198039"
+   ],
+   "spl_id": [
+    "0edbfc4f-af8c-475c-b2e6-16ba8e6a0fde"
+   ],
+   "spl_set_id": [
+    "141b6098-dd8e-4c99-a581-197d46f9e0b1"
+   ],
+   "package_ndc": [
+    "72603-266-01",
+    "72603-266-04"
+   ],
+   "is_original_packager": [
+    true
+   ],
+   "upc": [
+    "0372603266016"
+   ],
+   "nui": [
+    "N0000175415",
+    "M0014874",
+    "N0000009909"
+   ],
+   "pharm_class_epc": [
+    "Nitrate Vasodilator [EPC]"
+   ],
+   "pharm_class_cs": [
+    "Nitrates [CS]"
+   ],
+   "pharm_class_pe": [
+    "Vasodilation [PE]"
+   ],
+   "unii": [
+    "G59M7S0WS3"
+   ]
+  },
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS Tolerance: Excessive use may lead to tolerance. (5.1) Hypotension: Severe hypotension may occur. (5.2) 5.1 Tolerance Excessive use may lead to the development of tolerance. Only the smallest dose required for effective relief of the acute angina attack should be used. A decrease in therapeutic effect of sublingual nitroglycerin may result from use of long-acting nitrates. 5.2 Hypotension Severe hypotension, particularly with upright posture, may occur with small doses of nitroglycerin particularly in patients with constrictive pericarditis, aortic or mitral stenosis, patients who may be volume- depleted, or are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris. Symptoms of severe hypotension (nausea, vomiting, weakness, pallor, perspiration and collapse/syncope) may occur even with therapeutic doses. 5.3 Hypertrophic Obstructive Cardiomyopathy Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy. 5.4 Headache Nitroglycerin produces dose-related headaches, especially at the start of nitroglycerin therapy, which may be severe and persist but usually subside with continued use."
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS Use of phosphodiesterase type 5 (PDE-5) inhibitors, such as avanafil, sildenafil, tadalafil, or vardenafil, or soluble guanylate cyclase (sGC) stimulators. (4.1, 7.1) Severe anemia (4.2) Increased intracranial pressure (4.3) Hypersensitivity to nitroglycerin sublingual tablets or to other nitrates or nitrites or any excipient (4.4) Circulatory failure and shock (4.5) 4.1 PDE-5-Inhibitors and sGC-Stimulators Do not use nitroglycerin sublingual tablets in patients who are taking PDE-5 Inhibitors, such as avanafil, sildenafil, tadalafil, vardenafil hydrochloride. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia [see Drug Interactions (7.1)]. Do not use nitroglycerin sublingual tablets in patients who are taking the soluble guanylate cyclase stimulators, such as riociguat. Concomitant use can cause hypotension. 4.2 Severe Anemia Nitroglycerin sublingual tablets are contraindicated in patients with severe anemia (large doses of nitroglycerin may cause oxidation of hemoglobin to methemoglobin and could exacerbate anemia). 4.3 Increased Intracranial Pressure Nitroglycerin sublingual tablets may precipitate or aggravate increased intracranial pressure and thus should not be used in patients with possible increased intracranial pressure (e.g., cerebral hemorrhage or traumatic brain injury). 4.4 Hypersensitivity Nitroglycerin sublingual tablets are contraindicated in patients who are allergic to nitroglycerin, other nitrates or nitrites or any excipient. 4.5 Circulatory Failure and Shock Nitroglycerin sublingual tablets are contraindicated in patients with acute circulatory failure or shock."
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk summary Limited published data on the use of nitroglycerin are insufficient to determine a drug associated risk of major birth defects or miscarriage. In animal reproduction studies, there were no adverse developmental effects when nitroglycerin was administered intravenously to rabbits or intraperitoneally to rats during organogenesis at doses greater than 64-times the human dose (see Data) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Animal Data No embryotoxic or postnatal development effects were observed with transdermal application in pregnant rabbits and rats at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively, at intraperitoneal doses in pregnant rats up to 20 mg/kg/day from gestation day 7 to 17, and at intravenous doses in pregnant rabbits up to 4 mg/kg/day from gestation day 6 to 18."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use The safety and effectiveness of nitroglycerin in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use Clinical studies of nitroglycerin sublingual tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS 8.1 Pregnancy Risk summary Limited published data on the use of nitroglycerin are insufficient to determine a drug associated risk of major birth defects or miscarriage. In animal reproduction studies, there were no adverse developmental effects when nitroglycerin was administered intravenously to rabbits or intraperitoneally to rats during organogenesis at doses greater than 64-times the human dose (see Data) . The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively. Data Animal Data No embryotoxic or postnatal development effects were observed with transdermal application in pregnant rabbits and rats at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively, at intraperitoneal doses in pregnant rats up to 20 mg/kg/day from gestation day 7 to 17, and at intravenous doses in pregnant rabbits up to 4 mg/kg/day from gestation day 6 to 18. 8.2 Lactation Risk summary Sublingual nitroglycerin has not been studied in lactating women. It is not known if nitroglycerin is present in human milk or if nitroglycerin has effects on milk production. 8.4 Pediatric Use The safety and effectiveness of nitroglycerin in pediatric patients have not been established. 8.5 Geriatric Use Clinical studies of nitroglycerin sublingual tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following adverse reactions are discussed in more detail elsewhere in the label: Hypotension [see Warnings and Precautions (5.2)] Headache [see Warnings and Precautions (5.4)] Hypersensitivity [see Contraindications (4.4)] Vertigo, dizziness, weakness, palpitation, and other manifestations of postural hypotension may develop occasionally, particularly in erect, immobile patients. Marked sensitivity to the hypotensive effects of nitrates (manifested by nausea, vomiting, weakness, diaphoresis, pallor, and collapse) may occur at therapeutic doses. Syncope due to nitrate vasodilatation has been reported. Flushing, drug rash, and exfoliative dermatitis have been reported in patients receiving nitrate therapy. Most common adverse reactions occurring at a frequency greater than 2% are headache, dizziness and paresthesia. (6) To report SUSPECTED ADVERSE REACTIONS, contact Northstar Rx LLC at 1-800-206-7821 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS Ergotamine: increased bioavailability of ergotamine. Avoid concomitant use. (7.2) 7.1 PDE-5-Inhibitors and sGC-Stimulators Nitroglycerin sublingual tablets are contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE-5). PDE-5-Inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates. Nitroglycerin sublingual tablets are contraindicated in patients who are taking soluble guanylate cyclase (sGC) stimulators. Concomitant use can cause hypotension. The time course and dose dependence of these interactions have not been studied, and use within a few days of one another is not recommended. Appropriate supportive care for the severe hypotension has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion. 7.2 Ergotamine Oral administration of nitroglycerin markedly decreases the first-pass metabolism of dihydroergotamine and subsequently increases its oral bioavailability. Ergotamine is known to precipitate angina pectoris. Therefore, patients receiving sublingual nitroglycerin should avoid ergotamine and related drugs or be monitored for symptoms of ergotism if this is not possible."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE 10.1 Signs and Symptoms, Methemoglobinemia Nitrate overdosage may result in: severe hypotension, persistent throbbing headache, vertigo, palpitation, visual disturbance, flushing and perspiring skin (later becoming cold and cyanotic), nausea and vomiting (possibly with colic and even bloody diarrhea), syncope (especially in the upright posture), methemoglobinemia with cyanosis and anorexia, initial hyperpnea, dyspnea and slow breathing, slow pulse (dicrotic and intermittent), heart block, increased intracranial pressure with cerebral symptoms of confusion and moderate fever, paralysis and coma followed by clonic convulsions, and possibly death due to circulatory collapse. Case reports of clinically significant methemoglobinemia are rare at conventional doses of organic nitrates. The formation of methemoglobin is dose-related and in the case of genetic abnormalities of hemoglobin that favor methemoglobin formation, even conventional doses of organic nitrates could produce harmful concentrations of methemoglobin. 10.2 Treatment of Overdosage As hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume. No specific antagonist to the vasodilator effects of nitroglycerin is known. Keep the patient recumbent in a shock position and comfortably warm. Passive movement of the extremities may aid venous return. Intravenous infusion of normal saline or similar fluid may also be necessary. Administer oxygen and artificial ventilation, if necessary. If methemoglobinemia is present, administration of methylene blue (1% solution), 1-2 mg per kilogram of body weight intravenously, may be required unless the patient is known to have G-6-PD deficiency. If an excessive quantity of nitroglycerin has been recently swallowed gastric lavage may be of use. As epinephrine is ineffective in reversing the severe hypotensive events associated with overdosage, it is not recommended for resuscitation."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION Administer one tablet under the tongue or in the buccal pouch at the first sign of an acute anginal attack. Allow tablet to dissolve without swallowing. One additional tablet may be administered every 5 minutes until relief is obtained. No more than three tablets are recommended within a 15-minute period. If the pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, seek prompt medical attention. Nitroglycerin sublingual tablets may be used prophylactically 5 minutes to 10 minutes prior to engaging in activities that might precipitate an acute attack. For patients with xerostomia, a small sip of water prior to placing the tablet under the tongue may help maintain mucosal hydration and aid dissolution of the tablet. Administer nitroglycerin sublingual tablets at rest, preferably in the sitting position. At the onset of an attack, administer one tablet under the tongue or buccal pouch. One additional tablet may be administered every 5 minutes as needed. No more than 3 total tablets are recommended within a 15 minute period. (2) If chest pain persists after three tablets, seek prompt medical attention. (2) May be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack. (2)"
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Advise the patient to read the FDA-approved patient labeling (Patient Information). Manufactured for: Northstar Rx LLC Memphis, TN38141. Manufactured by: Mankind Pharma Limited Paonta Sahib, Sirmaur Himanchal Pradesh 173025, India. Issued: May 2024, V-01"
+  ]
+ }
+}

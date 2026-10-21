@@ -1,0 +1,101 @@
+{
+ "schema": "medcheck/openfda-label-cache@1",
+ "query": "caffe",
+ "normalized": "caffe",
+ "url": "https://api.fda.gov/drug/label.json",
+ "strategy": "brand_name",
+ "status": 200,
+ "tried": [
+  "generic_name: openfda.generic_name:\"caffe\"",
+  "brand_name: openfda.brand_name:\"caffe\""
+ ],
+ "retrieved_at": "2026-10-03T22:16:01",
+ "label": {
+  "spl_product_data_elements": [
+   "JBA Joint Revive TM The Legend Caffe Latte Glucosamine Sulfate Potassium Chloride,Chondroitin Sulfate,Fucoidan Extract COFFEE BEAN MALTODEXTRIN MANNITOL SKIM MILK STEVIOSIDE SUCROSE LAMINARIA JAPONICA LAMINARIA JAPONICA CHONDROITIN SULFATE (BOVINE) CONDOLIASE GLUCOSAMINE SULFATE POTASSIUM CHLORIDE GLUCOSAMINE"
+  ],
+  "statement_of_identity": [
+   "Identity Dietary supplement"
+  ],
+  "dosage_and_administration": [
+   "Direction Take one or two packets per day with or without meal in the morning."
+  ],
+  "safe_handling_warning": [
+   "Safe handling warning JOINT REVIVE™ THE LEGEND CAFFE LATTE Glucosamine – Chondroitin - Fucoidan The Perfect Blend of Coffee and Joint Health Glucosamine Plays a crucial role in maintaining the integrity and repair of cartilage, which is essential for joint function* Chondroitin Helps retain water in the cartilage, providing it with elasticity and preventing from breaking down.* Fucoidan Helps reduce systemic inflammation, promoting joint comfort and overall well-being.* Coffee Improves blood flow and circulation. Enhance the delivery of nutrients through-out the body including the joints.* Has anti-inflammatory properties.* Helps combat oxidative stress and inflammation in the body, which are linked to joint degeneration and aging.* Boosts energy levels, enhances focus, and improves mental alertness.* Start your morning with Joint ReviveTM The Legend Caffe Latte. The blend of taste and wellness. Sip, savor and support your every delicious cup. * These statements have not been evaluated by the Food & Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease."
+  ],
+  "health_claim": [
+   ""
+  ],
+  "precautions": [
+   "This coffee may increase energy levels. Consume in moderation and do not exceed the recommended suggested use. Keep Out of The Reach of Children. Store in a cool, dry place (59°F-86°F), avoid moisture and light."
+  ],
+  "warnings": [
+   "Other Ingredients Green Coffee Bean Extract, Maltodextrin, Mannitol, Milk Powder, Stevia, Sucrose"
+  ],
+  "active_ingredient": [
+   ""
+  ],
+  "purpose": [
+   ""
+  ],
+  "inactive_ingredient": [
+   ""
+  ],
+  "keep_out_of_reach_of_children": [
+   ""
+  ],
+  "indications_and_usage": [
+   ""
+  ],
+  "package_label_principal_display_panel": [
+   "Product label image description image description"
+  ],
+  "set_id": "fd397678-084e-4cde-8785-d96325634cdd",
+  "id": "44a86e5f-f79b-d5aa-e063-6294a90af830",
+  "effective_time": "20251128",
+  "version": "2",
+  "openfda": {
+   "brand_name": [
+    "JBA Joint Revive TM The Legend Caffe Latte"
+   ],
+   "generic_name": [
+    "GLUCOSAMINE SULFATE POTASSIUM CHLORIDE,CHONDROITIN SULFATE,FUCOIDAN EXTRACT"
+   ],
+   "manufacturer_name": [
+    "Advanced Pharmaceutical Services, Inc. Dba Affordable Quality Pharmaceuticals"
+   ],
+   "product_ndc": [
+    "13411-858"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "substance_name": [
+    "LAMINARIA JAPONICA",
+    "CHONDROITIN SULFATE (BOVINE)",
+    "GLUCOSAMINE SULFATE POTASSIUM CHLORIDE"
+   ],
+   "spl_id": [
+    "44a86e5f-f79b-d5aa-e063-6294a90af830"
+   ],
+   "spl_set_id": [
+    "fd397678-084e-4cde-8785-d96325634cdd"
+   ],
+   "package_ndc": [
+    "13411-858-15",
+    "13411-858-30"
+   ],
+   "is_original_packager": [
+    true
+   ],
+   "unii": [
+    "WE98HW412B",
+    "6IC1M3OG5Z",
+    "15VQ11I66N"
+   ]
+  }
+ }
+}

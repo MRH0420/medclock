@@ -1,0 +1,104 @@
+{
+ "schema": "medcheck/openfda-label-cache@1",
+ "query": "Calcium carbonate",
+ "normalized": "Calcium carbonate",
+ "url": "https://api.fda.gov/drug/label.json",
+ "strategy": "generic_name",
+ "status": 200,
+ "tried": [
+  "generic_name: openfda.generic_name:\"Calcium carbonate\""
+ ],
+ "retrieved_at": "2026-10-03T23:00:15",
+ "label": {
+  "spl_product_data_elements": [
+   "Family Wellness Ultra Stregth Antacid 171AB Calcium carbonate CALCIUM CARBONATE CALCIUM CATION ADIPIC ACID STARCH, CORN CROSPOVIDONE DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C RED NO. 40 MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC PINKISH BLUE G171 STRAWBERRY, RASPBERRY, WIDBERRY"
+  ],
+  "active_ingredient": [
+   "ACTIVE INGREDIENT (in each tablet) Calcium carbonate 1000 mg"
+  ],
+  "purpose": [
+   "PURPOSE Antacid"
+  ],
+  "indications_and_usage": [
+   "USE(S) relieves: acid indigestion heartburn"
+  ],
+  "warnings": [
+   "WARNINGS ."
+  ],
+  "ask_doctor_or_pharmacist": [
+   "ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+   "WHEN USING THIS PRODUCT do not take more than 7 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "IF PREGNANT OR/BREASTFEEDING, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "KEEP OUT OF REACH OF CHILDREN ."
+  ],
+  "dosage_and_administration": [
+   "DIRECTIONS adults and children 12 years of age and over: chew 2-3 tablets as symptoms occur, or as directed by a doctor."
+  ],
+  "storage_and_handling": [
+   "OTHER INFORMATION each tablet contains: elemental calcium 400 mg do not use if printed seal under the cap is torn or missing store at room temperature. keep the container tightly closed."
+  ],
+  "inactive_ingredient": [
+   "INACTIVE INGREDIENTS adipic acid, corn starch, crospovidone, dextrose, FD&C blue 1 lake, FD&C red 40 lake, flavors, magnesium stearate, maltodextrin, sucrose, talc."
+  ],
+  "package_label_principal_display_panel": [
+   "PRINCIPAL DISPLAY PANEL Family Wellness TM COMPARE TO THE ACTIVE INGREDIENT IN TUMS ® ULTRA STRENGTH* ULTRA STRENGTH ANTACID TABLETS Calcium Carbonate 1000 mg Assorted Berry Flavors 72 CHEWABLE TABLETS 171AB-FW"
+  ],
+  "set_id": "021e1a7f-8e78-4879-b101-0ddf74e2f1b7",
+  "id": "021e1a7f-8e78-4879-b101-0ddf74e2f1b7",
+  "effective_time": "20240417",
+  "version": "1",
+  "openfda": {
+   "application_number": [
+    "part331"
+   ],
+   "brand_name": [
+    "Family Wellness Ultra Stregth Antacid 171AB"
+   ],
+   "generic_name": [
+    "CALCIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Family Dollar Services, Inc."
+   ],
+   "product_ndc": [
+    "55319-919"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "substance_name": [
+    "CALCIUM CARBONATE"
+   ],
+   "rxcui": [
+    "308892"
+   ],
+   "spl_id": [
+    "021e1a7f-8e78-4879-b101-0ddf74e2f1b7"
+   ],
+   "spl_set_id": [
+    "021e1a7f-8e78-4879-b101-0ddf74e2f1b7"
+   ],
+   "package_ndc": [
+    "55319-919-68"
+   ],
+   "is_original_packager": [
+    true
+   ],
+   "upc": [
+    "0032251922824"
+   ],
+   "unii": [
+    "H0G9379FGK"
+   ]
+  }
+ }
+}

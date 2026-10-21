@@ -1,0 +1,134 @@
+{
+ "schema": "medcheck/openfda-label-cache@1",
+ "query": "aspirn",
+ "normalized": "aspirn",
+ "url": "https://api.fda.gov/drug/label.json",
+ "strategy": "brand_name",
+ "status": 200,
+ "tried": [
+  "generic_name: openfda.generic_name:\"aspirn\"",
+  "brand_name: openfda.brand_name:\"aspirn\""
+ ],
+ "retrieved_at": "2026-10-04T10:07:42",
+ "label": {
+  "spl_product_data_elements": [
+   "ASPIRN ASPIRIN ASPIRIN ASPIRIN CROSCARMELLOSE SODIUM MINERAL OIL TITANIUM DIOXIDE CELLULOSE, MICROCRYSTALLINE HYPROMELLOSES STARCH, CORN Aspirin;44;157"
+  ],
+  "spl_unclassified_section": [
+   "DRUG FACTS Active ingredient (in each tablet) Aspirin (NSAID*) 325 mg *nonsteroidal anti-inflammatory drug",
+   "USES Temporarily relieves minor aches and pains associated with ■ headache ■ minor arthritis pain ■ common cold ■ menstrual cramps ■ muscular aches ■ backache ■ toothache Temporarily reduces fever."
+  ],
+  "purpose": [
+   "Pain reliever/fever reducer"
+  ],
+  "warnings": [
+   "Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Aspirin may cause a severe allergic reaction which may include: ■ hives ■ skin reddening ■ facial swelling ■ rash ■ asthma (wheezing) ■ blisters ■ shock If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: ■ are age 60 or older ■ have had stomach ulcers or bleeding problems ■ take a blood thinning (anticoagulant) or steroid drug ■ take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) ■ have 3 or more alcohol drinks every day while using this product ■ take more or for a longer time than directed"
+  ],
+  "do_not_use": [
+   "■ if you have ever had an allergic reaction to any other pain reliever/ fever reducer ■ right before or after heart surgery ■ if you are taking prescription drugs for gout, diabetes or arthritis"
+  ],
+  "ask_doctor": [
+   "■ stomach bleeding warning applies to you ■ you have a history of stomach problems such as heartburn ■ you have high blood pressure, heart disease, liver cirrhosis, or kidney disease ■ you are taking a diuretic ■ you have asthma"
+  ],
+  "ask_doctor_or_pharmacist": [
+   "■ under a doctor's care for any serious condition ■ taking any other drug"
+  ],
+  "when_using": [
+   "take with food or milk if stomach upset occurs"
+  ],
+  "stop_use": [
+   "■ you experience any of the following signs of stomach bleeding: ■ feel faint ■ vomit blood ■ have bloody or black stools ■ have stomach pain that does not get better ■ pain gets worse or lasts more than 10 days ■ fever gets worse or lasts more than 3 days ■ you have difficulty swallowing ■ if ringing in the ears or loss of hearing occurs ■ redness or swelling is present in the painful area ■ any new symptoms appear"
+  ],
+  "pregnancy_or_breast_feeding": [
+   "ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery."
+  ],
+  "keep_out_of_reach_of_children": [
+   "In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "dosage_and_administration": [
+   "do not take more than directed ■ the smallest effective dose should be used ■ do not take longer than 10 days, unless directed by a doctor (see Warnings) ■ drink a full glass of water with each dose Adults and children: Take 1 or 2 tablets with water every 4 hours as needed. Do not (12 years and older) take more than 12 tablets in 24 hours, or as directed by a doctor. Children under 12 years: Do not give to children under 12 years of age."
+  ],
+  "inactive_ingredient": [
+   "corn starch, croscarmellose sodium, hypromellose, microcrystalline cellulose, mineral oil, titanium dioxide"
+  ],
+  "indications_and_usage": [
+   "do not take more than directed ■ the smallest effective dose should be used ■ do not take longer than 10 days, unless directed by a doctor (see Warnings) ■ drink a full glass of water with each dose Adults and children: Take 1 or 2 tablets with water every 4 hours as needed. Do not (12 years and older) take more than 12 tablets in 24 hours, or as directed by a doctor. Children under 12 years: Do not give to children under 12 years of age."
+  ],
+  "how_supplied": [
+   "1 (2 Pack) 325 NSAID"
+  ],
+  "package_label_principal_display_panel": [
+   "SERIALIZED LABEL"
+  ],
+  "set_id": "21524b42-f8fd-673c-e063-6294a90a22e8",
+  "id": "21524b42-f8fe-673c-e063-6294a90a22e8",
+  "effective_time": "20240904",
+  "version": "1",
+  "openfda": {
+   "application_number": [
+    "M013"
+   ],
+   "brand_name": [
+    "ASPIRN"
+   ],
+   "generic_name": [
+    "ASPIRIN"
+   ],
+   "manufacturer_name": [
+    "HF Acquisition Co LLC, DBA HealthFirst"
+   ],
+   "product_ndc": [
+    "51662-1583"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "substance_name": [
+    "ASPIRIN"
+   ],
+   "rxcui": [
+    "212033"
+   ],
+   "spl_id": [
+    "21524b42-f8fe-673c-e063-6294a90a22e8"
+   ],
+   "spl_set_id": [
+    "21524b42-f8fd-673c-e063-6294a90a22e8"
+   ],
+   "package_ndc": [
+    "51662-1583-1"
+   ],
+   "original_packager_product_ndc": [
+    "0924-0105"
+   ],
+   "nui": [
+    "N0000000160",
+    "N0000008836",
+    "M0001335",
+    "N0000175722",
+    "N0000175578",
+    "N0000008832"
+   ],
+   "pharm_class_moa": [
+    "Cyclooxygenase Inhibitors [MoA]"
+   ],
+   "pharm_class_pe": [
+    "Decreased Prostaglandin Production [PE]",
+    "Decreased Platelet Aggregation [PE]"
+   ],
+   "pharm_class_cs": [
+    "Anti-Inflammatory Agents, Non-Steroidal [CS]"
+   ],
+   "pharm_class_epc": [
+    "Nonsteroidal Anti-inflammatory Drug [EPC]",
+    "Platelet Aggregation Inhibitor [EPC]"
+   ],
+   "unii": [
+    "R16CO5Y76E"
+   ]
+  }
+ }
+}

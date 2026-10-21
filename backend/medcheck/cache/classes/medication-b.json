@@ -1,0 +1,16 @@
+{
+ "schema": "medcheck/drug-class-cache@1",
+ "query": "Medication B",
+ "drug": "Medication B",
+ "raw": [
+  "Anti-Inflammatory Agents, Non-Steroidal [CS]",
+  "Centrally-mediated Muscle Relaxation [PE]",
+  "Cyclooxygenase Inhibitors [MoA]",
+  "Muscle Relaxant [EPC]",
+  "Nonsteroidal Anti-inflammatory Drug [EPC]",
+  "Sulfonylurea Compounds [CS]",
+  "Sulfonylurea [EPC]"
+ ],
+ "source": "openFDA label (openfda.pharm_class_*)",
+ "retrieved_at": "2026-10-04T07:51:28"
+}

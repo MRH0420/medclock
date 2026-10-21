@@ -1,0 +1,112 @@
+{
+ "schema": "medcheck/fixture@1",
+ "query": "calcium carbonate",
+ "normalized": "calcium carbonate",
+ "url": "https://api.fda.gov/drug/label.json",
+ "strategy": "generic_name",
+ "status": 200,
+ "retrieved_at": "2026-10-03T23:23:49",
+ "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021e1a7f-8e78-4879-b101-0ddf74e2f1b7",
+ "drug": {
+  "generic_name": [
+   "CALCIUM CARBONATE"
+  ],
+  "brand_name": [
+   "Family Wellness Ultra Stregth Antacid 171AB"
+  ],
+  "substance_name": [
+   "CALCIUM CARBONATE"
+  ]
+ },
+ "safety_fields": [
+  "warnings",
+  "ask_doctor_or_pharmacist",
+  "when_using",
+  "pregnancy_or_breast_feeding",
+  "keep_out_of_reach_of_children",
+  "active_ingredient",
+  "purpose",
+  "dosage_and_administration",
+  "storage_and_handling"
+ ],
+ "label": {
+  "id": "021e1a7f-8e78-4879-b101-0ddf74e2f1b7",
+  "set_id": "021e1a7f-8e78-4879-b101-0ddf74e2f1b7",
+  "effective_time": "20240417",
+  "version": "1",
+  "openfda": {
+   "application_number": [
+    "part331"
+   ],
+   "brand_name": [
+    "Family Wellness Ultra Stregth Antacid 171AB"
+   ],
+   "generic_name": [
+    "CALCIUM CARBONATE"
+   ],
+   "manufacturer_name": [
+    "Family Dollar Services, Inc."
+   ],
+   "product_ndc": [
+    "55319-919"
+   ],
+   "product_type": [
+    "HUMAN OTC DRUG"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "substance_name": [
+    "CALCIUM CARBONATE"
+   ],
+   "rxcui": [
+    "308892"
+   ],
+   "spl_id": [
+    "021e1a7f-8e78-4879-b101-0ddf74e2f1b7"
+   ],
+   "spl_set_id": [
+    "021e1a7f-8e78-4879-b101-0ddf74e2f1b7"
+   ],
+   "package_ndc": [
+    "55319-919-68"
+   ],
+   "is_original_packager": [
+    true
+   ],
+   "upc": [
+    "0032251922824"
+   ],
+   "unii": [
+    "H0G9379FGK"
+   ]
+  },
+  "warnings": [
+   "WARNINGS ."
+  ],
+  "ask_doctor_or_pharmacist": [
+   "ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs."
+  ],
+  "when_using": [
+   "WHEN USING THIS PRODUCT do not take more than 7 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor."
+  ],
+  "pregnancy_or_breast_feeding": [
+   "IF PREGNANT OR/BREASTFEEDING, ask a health professional before use."
+  ],
+  "keep_out_of_reach_of_children": [
+   "KEEP OUT OF REACH OF CHILDREN ."
+  ],
+  "active_ingredient": [
+   "ACTIVE INGREDIENT (in each tablet) Calcium carbonate 1000 mg"
+  ],
+  "purpose": [
+   "PURPOSE Antacid"
+  ],
+  "dosage_and_administration": [
+   "DIRECTIONS adults and children 12 years of age and over: chew 2-3 tablets as symptoms occur, or as directed by a doctor."
+  ],
+  "storage_and_handling": [
+   "OTHER INFORMATION each tablet contains: elemental calcium 400 mg do not use if printed seal under the cap is torn or missing store at room temperature. keep the container tightly closed."
+  ]
+ }
+}

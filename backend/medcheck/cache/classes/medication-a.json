@@ -1,0 +1,20 @@
+{
+ "schema": "medcheck/drug-class-cache@1",
+ "query": "Medication A",
+ "drug": "Medication A",
+ "raw": [
+  "Anti-Inflammatory Agents, Non-Steroidal [CS]",
+  "Antiseptic [EPC]",
+  "Centrally-mediated Muscle Relaxation [PE]",
+  "Corticosteroid Hormone Receptor Agonists [MoA]",
+  "Corticosteroid [EPC]",
+  "Cyclooxygenase Inhibitors [MoA]",
+  "Iodine [CS]",
+  "Muscle Relaxant [EPC]",
+  "Nonsteroidal Anti-inflammatory Drug [EPC]",
+  "Sulfonylurea Compounds [CS]",
+  "Sulfonylurea [EPC]"
+ ],
+ "source": "openFDA label (openfda.pharm_class_*)",
+ "retrieved_at": "2026-10-04T07:51:21"
+}

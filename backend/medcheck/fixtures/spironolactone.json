@@ -1,0 +1,145 @@
+{
+ "schema": "medcheck/fixture@1",
+ "query": "spironolactone",
+ "normalized": "spironolactone",
+ "url": "https://api.fda.gov/drug/label.json",
+ "strategy": "generic_name",
+ "status": 200,
+ "retrieved_at": "2026-10-03T03:19:19",
+ "source_page": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+ "drug": {
+  "generic_name": [
+   "SPIRONOLACTONE"
+  ],
+  "brand_name": [
+   "Aldactone"
+  ],
+  "substance_name": [
+   "SPIRONOLACTONE"
+  ]
+ },
+ "safety_fields": [
+  "warnings_and_cautions",
+  "contraindications",
+  "pregnancy",
+  "pediatric_use",
+  "geriatric_use",
+  "use_in_specific_populations",
+  "adverse_reactions",
+  "drug_interactions",
+  "overdosage",
+  "dosage_and_administration",
+  "storage_and_handling",
+  "information_for_patients"
+ ],
+ "label": {
+  "id": "22946678-dcad-4518-9bc6-cbdf51a38c16",
+  "set_id": "0fed2822-3a03-4b64-9857-c682fcd462bc",
+  "effective_time": "20251128",
+  "version": "25",
+  "openfda": {
+   "application_number": [
+    "NDA012151"
+   ],
+   "brand_name": [
+    "Aldactone"
+   ],
+   "generic_name": [
+    "SPIRONOLACTONE"
+   ],
+   "manufacturer_name": [
+    "Pfizer Laboratories Div Pfizer Inc"
+   ],
+   "product_ndc": [
+    "0025-1001",
+    "0025-1041",
+    "0025-1031"
+   ],
+   "product_type": [
+    "HUMAN PRESCRIPTION DRUG"
+   ],
+   "route": [
+    "ORAL"
+   ],
+   "substance_name": [
+    "SPIRONOLACTONE"
+   ],
+   "rxcui": [
+    "198222",
+    "198223",
+    "200817",
+    "200820",
+    "200825",
+    "313096"
+   ],
+   "spl_id": [
+    "22946678-dcad-4518-9bc6-cbdf51a38c16"
+   ],
+   "spl_set_id": [
+    "0fed2822-3a03-4b64-9857-c682fcd462bc"
+   ],
+   "package_ndc": [
+    "0025-1001-31",
+    "0025-1041-31",
+    "0025-1031-31"
+   ],
+   "is_original_packager": [
+    true
+   ],
+   "upc": [
+    "0300251001314",
+    "0300251031311",
+    "0300251041310"
+   ],
+   "nui": [
+    "N0000175557",
+    "N0000011310"
+   ],
+   "pharm_class_epc": [
+    "Aldosterone Antagonist [EPC]"
+   ],
+   "pharm_class_moa": [
+    "Aldosterone Antagonists [MoA]"
+   ],
+   "unii": [
+    "27O7W4T232"
+   ]
+  },
+  "warnings_and_cautions": [
+   "5 WARNINGS AND PRECAUTIONS • Hyperkalemia: Monitor serum potassium within one week of initiation and regularly thereafter ( 5.1 ). • Hypotension and Worsening Renal Function: Monitor volume status and renal function periodically ( 5.2 ). • Electrolyte and Metabolic Abnormalities: Monitor serum electrolytes, uric acid and blood glucose periodically ( 5.3 ). • Gynecomastia: ALDACTONE can cause gynecomastia ( 5.4 ). 5.1 Hyperkalemia ALDACTONE can cause hyperkalemia. This risk is increased by impaired renal function or concomitant potassium supplementation, potassium-containing salt substitutes or drugs that increase potassium, such as angiotensin converting enzyme inhibitors and angiotensin receptor blockers [see Drug Interactions (7.1) ] . Monitor serum potassium within 1 week of initiation or titration of ALDACTONE and regularly thereafter. More frequent monitoring may be needed when ALDACTONE is given with other drugs that cause hyperkalemia or in patients with impaired renal function. If hyperkalemia occurs, decrease the dose or discontinue ALDACTONE and treat hyperkalemia. 5.2 Hypotension and Worsening Renal Function Excessive diuresis may cause symptomatic dehydration, hypotension and worsening renal function, particularly in salt-depleted patients or those taking angiotensin converting enzyme inhibitors and angiotensin II receptor blockers. Worsening of renal function can also occur with concomitant use of nephrotoxic drugs (e.g., aminoglycosides, cisplatin, and NSAIDs). Monitor volume status and renal function periodically. 5.3 Electrolyte and Metabolic Abnormalities In addition to causing hyperkalemia, ALDACTONE can cause hyponatremia, hypomagnesemia, hypocalcemia, hypochloremic alkalosis, and hyperglycemia. Asymptomatic hyperuricemia can occur and rarely gout is precipitated. Monitor serum electrolytes, uric acid and blood glucose periodically. 5.4 Gynecomastia ALDACTONE can cause gynecomastia. In RALES, patients with heart failure treated with a mean dose of 26 mg of spironolactone once daily, about 9% of the male subjects developed gynecomastia. The risk of gynecomastia increases in a dose-dependent manner with an onset that varies widely from 1–2 months to over a year. Gynecomastia is usually reversible."
+  ],
+  "contraindications": [
+   "4 CONTRAINDICATIONS ALDACTONE is contraindicated in the patients with: • Hyperkalemia • Addison's disease • Concomitant use of eplerenone ALDACTONE is contraindicated in patients with ( 4 ): ▪ Hyperkalemia ▪ Addison's disease ▪ Concomitant use of eplerenone"
+  ],
+  "pregnancy": [
+   "8.1 Pregnancy Risk Summary Based on mechanism of action and findings in animal studies, spironolactone may affect sex differentiation of the male during embryogenesis (see Data ) . Rat embryofetal studies report feminization of male fetuses and endocrine dysfunction in females exposed to spironolactone in utero. Limited available data from published case reports and case series did not demonstrate an association of major malformations or other adverse pregnancy outcomes with spironolactone. There are risks to the mother and fetus associated with heart failure, cirrhosis and poorly controlled hypertension during pregnancy (see Clinical Considerations ) . Because of the potential risk to the male fetus due to anti-androgenic properties of spironolactone and animal data, avoid spironolactone in pregnant women or advise a pregnant woman of the potential risk to a male fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%–4% and 15%–20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Pregnant women with congestive heart failure are at increased risk for preterm birth. Stroke volume and heart rate increase during pregnancy, increasing cardiac output, especially during the first trimester. Clinical classification of heart disease may worsen with pregnancy and lead to maternal death. Closely monitor pregnant patients for destabilization of their heart failure. Pregnant women with symptomatic cirrhosis generally have poor outcomes including hepatic failure, variceal hemorrhage, preterm delivery, fetal growth restriction and maternal death. Outcomes are worse with coexisting esophageal varices. Pregnant women with cirrhosis of the liver should be carefully monitored and managed accordingly. Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Data Animal Data Teratology studies with ALDACTONE have been carried out in mice and rabbits at doses of up to 20 mg/kg/day. On a body surface area basis, this dose in the mouse is substantially below the maximum recommended human dose and, in the rabbit, approximates the maximum recommended human dose. No teratogenic or other embryotoxic effects were observed in mice, but the 20 mg/kg dose caused an increased rate of resorption and a lower number of live fetuses in rabbits. Because of its antiandrogenic activity and the requirement of testosterone for male morphogenesis, ALDACTONE may have the potential for adversely affecting sex differentiation of the male during embryogenesis. When administered to rats at 200 mg/kg/day between gestation days 13 and 21 (late embryogenesis and fetal development), feminization of male fetuses was observed. Offspring exposed during late pregnancy to 50 and 100 mg/kg/day doses of ALDACTONE exhibited changes in the reproductive tract including dose-dependent decreases in weights of the ventral prostate and seminal vesicle in males, ovaries and uteri that were enlarged in females, and other indications of endocrine dysfunction, that persisted into adulthood. ALDACTONE has known endocrine effects in animals including progestational and antiandrogenic effects."
+  ],
+  "pediatric_use": [
+   "8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established."
+  ],
+  "geriatric_use": [
+   "8.5 Geriatric Use ALDACTONE is substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, monitor renal function."
+  ],
+  "use_in_specific_populations": [
+   "8 USE IN SPECIFIC POPULATIONS ▪ Pregnancy: Based on animal data, ALDACTONE may affect sex differentiation of the male during embryogenesis ( 8.1 ) 8.1 Pregnancy Risk Summary Based on mechanism of action and findings in animal studies, spironolactone may affect sex differentiation of the male during embryogenesis (see Data ) . Rat embryofetal studies report feminization of male fetuses and endocrine dysfunction in females exposed to spironolactone in utero. Limited available data from published case reports and case series did not demonstrate an association of major malformations or other adverse pregnancy outcomes with spironolactone. There are risks to the mother and fetus associated with heart failure, cirrhosis and poorly controlled hypertension during pregnancy (see Clinical Considerations ) . Because of the potential risk to the male fetus due to anti-androgenic properties of spironolactone and animal data, avoid spironolactone in pregnant women or advise a pregnant woman of the potential risk to a male fetus. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%–4% and 15%–20%, respectively. Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Pregnant women with congestive heart failure are at increased risk for preterm birth. Stroke volume and heart rate increase during pregnancy, increasing cardiac output, especially during the first trimester. Clinical classification of heart disease may worsen with pregnancy and lead to maternal death. Closely monitor pregnant patients for destabilization of their heart failure. Pregnant women with symptomatic cirrhosis generally have poor outcomes including hepatic failure, variceal hemorrhage, preterm delivery, fetal growth restriction and maternal death. Outcomes are worse with coexisting esophageal varices. Pregnant women with cirrhosis of the liver should be carefully monitored and managed accordingly. Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage). Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death. Data Animal Data Teratology studies with ALDACTONE have been carried out in mice and rabbits at doses of up to 20 mg/kg/day. On a body surface area basis, this dose in the mouse is substantially below the maximum recommended human dose and, in the rabbit, approximates the maximum recommended human dose. No teratogenic or other embryotoxic effects were observed in mice, but the 20 mg/kg dose caused an increased rate of resorption and a lower number of live fetuses in rabbits. Because of its antiandrogenic activity and the requirement of testosterone for male morphogenesis, ALDACTONE may have the potential for adversely affecting sex differentiation of the male during embryogenesis. When administered to rats at 200 mg/kg/day between gestation days 13 and 21 (late embryogenesis and fetal development), feminization of male fetuses was observed. Offspring exposed during late pregnancy to 50 and 100 mg/kg/day doses of ALDACTONE exhibited changes in the reproductive tract including dose-dependent decreases in weights of the ventral prostate and seminal vesicle in males, ovaries and uteri that were enlarged in females, and other indications of endocrine dysfunction, that persisted into adulthood. ALDACTONE has known endocrine effects in animals including progestational and antiandrogenic effects. 8.2 Lactation Risk Summary Spironolactone is not present in breastmilk; however, limited data from a lactating woman at 17 days postpartum reports the presence of the active metabolite, canrenone, in human breast milk in low amounts that are expected to be clinically inconsequential. In this case, there were no adverse effects reported for the breastfed infant after short term exposure to spironolactone; however, long term effects on a breastfed infant are unknown. There are no data on spironolactone effects on milk production. Consider the developmental and health benefits of breastfeeding along with the mother's clinical need for spironolactone and any potential adverse effects on the breastfed child from spironolactone or from the underlying maternal condition. 8.4 Pediatric Use Safety and effectiveness in pediatric patients have not been established. 8.5 Geriatric Use ALDACTONE is substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, monitor renal function. 8.6 Use in Renal Impairment ALDACTONE is substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Patients with renal impairment are at increased risk of hyperkalemia. Monitor potassium closely. 8.7 Use in Hepatic Impairment ALDACTONE can cause sudden alterations of fluid and electrolyte balance which may precipitate impaired neurological function, worsening hepatic encephalopathy and coma in patients with hepatic disease with cirrhosis and ascites. In these patients, initiate ALDACTONE in the hospital [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3) ] . Clearance of spironolactone and its metabolites is reduced in patients with cirrhosis. In patients with cirrhosis, start with lowest initial dose and titrate slowly [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3) ] ."
+  ],
+  "adverse_reactions": [
+   "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: • Hyperkalemia [see Warnings and Precautions (5.1) ] • Hypotension and Worsening Renal Function [see Warnings and Precautions (5.2) ] • Electrolyte and Metabolic Abnormalities [see Warnings and Precautions (5.3) ] • Gynecomastia [see Warnings and Precautions (5.4 ] • Impaired neurological function/ coma in patients with hepatic impairment, cirrhosis and ascites [see Use in Specific Populations (8.7) ] The following adverse reactions associated with the use of spironolactone were identified in clinical trials or postmarketing reports. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency, reliably, or to establish a causal relationship to drug exposure. Digestive: Gastric bleeding, ulceration, gastritis, diarrhea and cramping, nausea, vomiting. Reproductive: Decreased libido, inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast and nipple pain. Hematologic: Leukopenia (including agranulocytosis), thrombocytopenia. Hypersensitivity: Fever, urticaria, maculopapular or erythematous cutaneous eruptions, anaphylactic reactions, vasculitis. Metabolism: Hyperkalemia, electrolyte disturbances [see Warnings and Precautions (5.1 , 5.3) ] , hyponatremia, hypovolemia. Musculoskeletal: Leg cramps. Nervous system/psychiatric: Lethargy, mental confusion, ataxia, dizziness, headache, drowsiness. Liver/biliary: A very few cases of mixed cholestatic/hepatocellular toxicity, with one reported fatality, have been reported with spironolactone administration. Renal: Renal dysfunction (including renal failure). Skin: Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug rash with eosinophilia and systemic symptoms (DRESS), alopecia, pruritis. The most common adverse reaction with ALDACTONE treatment is gynecomastia ( 5.4 , 6 ). To report SUSPECTED ADVERSE REACTIONS, contact Pfizer, Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+  ],
+  "drug_interactions": [
+   "7 DRUG INTERACTIONS • Agents increasing serum potassium: Concomitant administration can lead to hyperkalemia ( 5.1 , 7.1 ). • Lithium: Increased risk of lithium toxicity ( 7.2 ). • NSAIDs: May reduce the diuretic, natriuretic and antihypertensive effect of ALDACTONE ( 7.3 ). • Digoxin: ALDACTONE can interfere with radioimmunologic assays of digoxin exposure ( 7.4 ). • Cholestyramine: Hyperkalemic metabolic acidosis has been reported with concomitant use ( 7.5 ). • Acetylsalicylic Acid (ASA): ASA may reduce the efficacy of ALDACTONE ( 7.6 ). • Abiraterone: May increase prostate-specific antigen (PSA) levels ( 7.7 ). • Mitotane: Avoid concomitant use of ALDACTONE and mitotane ( 7.8 ). 7.1 Drugs and Supplements Increasing Serum Potassium Concomitant administration of ALDACTONE with potassium supplementation or drugs that can increase potassium may lead to severe hyperkalemia. In general, discontinue potassium supplementation in heart failure patients who start ALDACTONE [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3) ] . Check serum potassium levels when ACE inhibitor or ARB therapy is altered in patients receiving ALDACTONE. Examples of drugs that can increase potassium include: • ACE inhibitors • angiotensin receptor blockers • non-steroidal anti-inflammatory drugs (NSAIDs) • heparin and low molecular weight heparin • trimethoprim 7.2 Lithium Like other diuretics, ALDACTONE reduces the renal clearance of lithium, thus increasing the risk of lithium toxicity. Monitor lithium levels periodically when ALDACTONE is coadministered [see Clinical Pharmacology (12.3) ] . 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of diuretics. Therefore, when ALDACTONE and NSAIDs are used concomitantly, monitor closely to determine if the desired effect of the diuretic is obtained [see Clinical Pharmacology (12.3) ] . 7.4 Digoxin Spironolactone and its metabolites interfere with radioimmunoassays for digoxin and increase the apparent exposure to digoxin. It is unknown to what extent, if any, spironolactone may increase actual digoxin exposure. In patients taking concomitant digoxin, use an assay that does not interact with spironolactone. 7.5 Cholestyramine Hyperkalemic metabolic acidosis has been reported in patients given ALDACTONE concurrently with cholestyramine. 7.6 Acetylsalicylic Acid Acetylsalicylic acid may reduce the efficacy of spironolactone. Therefore, when ALDACTONE and acetylsalicylic acid are used concomitantly, ALDACTONE may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [see Clinical Pharmacology (12.3) ] . 7.7 Abiraterone Spironolactone binds to the androgen receptor and may increase prostate-specific antigen (PSA) levels in abiraterone-treated prostate cancer patients. Concomitant use of spironolactone and abiraterone is not recommended. 7.8 Mitotane Avoid concomitant use of ALDACTONE and mitotane. Spironolactone reduces mitotane plasma levels [see Clinical Pharmacology (12.3) ] ."
+  ],
+  "overdosage": [
+   "10 OVERDOSAGE The oral LD 50 of ALDACTONE is greater than 1000 mg/kg in mice, rats, and rabbits. Acute overdosage of ALDACTONE may be manifested by drowsiness, mental confusion, maculopapular or erythematous rash, nausea, vomiting, dizziness, or diarrhea. Rarely, instances of hyponatremia, hyperkalemia, or hepatic coma may occur in patients with severe liver disease, but these are unlikely due to acute overdosage. Hyperkalemia may occur, especially in patients with impaired renal function. Treatment: Induce vomiting or evacuate the stomach by lavage. There is no specific antidote. Treatment is supportive to maintain hydration, electrolyte balance, and vital functions. Patients who have renal impairment may develop hyperkalemia. In such cases, discontinue ALDACTONE."
+  ],
+  "dosage_and_administration": [
+   "2 DOSAGE AND ADMINISTRATION • Heart Failure: Initiate treatment at 25 mg once daily ( 2.2 ). • Hypertension: Initiate treatment at 25 to 100 mg daily in either single or divided doses ( 2.3 ). • Edema: Initiate therapy in a hospital setting and titrate slowly. The recommended initial daily dose is 100 mg in single or divided doses ( 2.4 ). • Primary hyperaldosteronism: Initiate treatment at 100 to 400 mg in preparation for surgery. In patients unsuitable for surgery use the lowest effective dosage determined for the individual patient ( 2.5 ). 2.1 General Considerations ALDACTONE can be taken with or without food, but should be taken consistently with respect to food [see Clinical Pharmacology (12.3) ] . 2.2 Treatment of Heart Failure In patients with serum potassium ≤5.0 mEq/L and eGFR >50 mL/min/1.73 m 2 , initiate treatment at 25 mg once daily. Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated. Patients who develop hyperkalemia on 25 mg once daily may have their dosage reduced to 25 mg every other day [see Warnings and Precautions (5.1) ] . In patients with an eGFR between 30 and 50 mL/min/1.73 m 2 , consider initiating therapy at 25 mg every other day because of the risk of hyperkalemia [see Use in Specific Populations (8.6) ]. 2.3 Treatment of Essential Hypertension The recommended initial daily dose is 25 to 100 mg of ALDACTONE administered in either single or divided doses is recommended. Dosage can be titrated at two-week intervals. Doses greater than 100 mg/day generally do not provide additional reductions in blood pressure. 2.4 Treatment of Edema In patients with cirrhosis, initiate therapy in a hospital setting and titrate slowly [see Use in Specific Populations (8.7) ] . The recommended initial daily dosage is 100 mg of ALDACTONE administered in either single or divided doses, but may range from 25 to 200 mg daily. When given as the sole agent for diuresis, administer for at least five days before increasing dose to obtain desired effect. 2.5 Treatment of Primary Hyperaldosteronism Administer ALDACTONE in doses of 100 to 400 mg daily in preparation for surgery. For patients who are considered unsuitable for surgery, ALDACTONE can be used as long-term maintenance therapy at the lowest effective dosage determined for the individual patient."
+  ],
+  "storage_and_handling": [
+   "Store below 77°F (25°C)."
+  ],
+  "information_for_patients": [
+   "17 PATIENT COUNSELING INFORMATION Patients who receive ALDACTONE should be advised to avoid potassium supplements and foods containing high levels of potassium, including salt substitutes. This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com . LAB-0231-18.0 Logo"
+  ]
+ }
+}

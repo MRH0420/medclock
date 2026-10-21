@@ -1,0 +1,13 @@
+{
+ "schema": "medcheck/drug-class-cache@1",
+ "query": "methoxyflurane",
+ "drug": "methoxyflurane",
+ "raw": [
+  "General Anesthesia [PE]",
+  "General Anesthetic [EPC]",
+  "Tetracycline-class Drug [EPC]",
+  "Tetracyclines [Chemical/Ingredient]"
+ ],
+ "source": "openFDA label (openfda.pharm_class_*)",
+ "retrieved_at": "2026-10-04T09:40:07"
+}

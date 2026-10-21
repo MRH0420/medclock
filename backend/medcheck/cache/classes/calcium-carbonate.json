@@ -1,0 +1,18 @@
+{
+ "schema": "medcheck/drug-class-cache@1",
+ "query": "Calcium carbonate",
+ "drug": "Calcium carbonate",
+ "raw": [
+  "Alkalinizing Activity [MoA]",
+  "Blood Coagulation Factor [EPC]",
+  "Calcium [CS]",
+  "Cations",
+  "Divalent [CS]",
+  "Increased Coagulation Factor Activity [PE]",
+  "Phosphate Binder [EPC]",
+  "Phosphate Chelating Activity [MoA]",
+  "Skin Barrier Activity [PE]"
+ ],
+ "source": "openFDA ndc (52 个产品, 查询 'Calcium carbonate')",
+ "retrieved_at": "2026-10-03T23:25:53"
+}

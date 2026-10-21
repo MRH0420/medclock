@@ -1,0 +1,11 @@
+{
+ "schema": "medcheck/drug-class-cache@1",
+ "query": "insulin",
+ "drug": "Insulin Glargine",
+ "raw": [
+  "Insulin Analog [EPC]",
+  "Insulin [CS]"
+ ],
+ "source": "openFDA ndc (1 个产品, 查询 'insulin')",
+ "retrieved_at": "2026-10-04T12:53:22"
+}
